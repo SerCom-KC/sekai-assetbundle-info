@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "os": "android",
     "bundles": {
         "live_pv/model/penlight/0071": {
@@ -14902,7 +14902,7 @@
             "cacheDirectoryName": "842e",
             "hash": "ca2ac2de30205d14a6f49b5bac0833a7",
             "category": "Tutorial",
-            "crc": 3168930544,
+            "crc": 4273566305,
             "fileSize": 248284,
             "dependencies": [],
             "paths": [
@@ -19076,18 +19076,32 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/select/banner/vlentrance_00001_re": {
+            "bundleName": "virtual_live/select/banner/vlentrance_00001_re",
+            "cacheFileName": "4a28f4cc8ba923ff32a450ee59d269c6",
+            "cacheDirectoryName": "3282",
+            "hash": "4b8de297b88ff18a6007ed53781e7f71",
+            "category": "OnDemand",
+            "crc": 338304016,
+            "fileSize": 63117,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/select/banner/vlentrance_00001_re"
+            ],
+            "isBuiltin": false
+        },
         "live2d/model/08shizuku_unit": {
             "bundleName": "live2d/model/08shizuku_unit",
             "cacheFileName": "cd753f7167117b62160862e45751f9f4",
             "cacheDirectoryName": "9efc",
-            "hash": "a578fa492f9d44f116413d791c279237",
+            "hash": "b29fb0e8a028c0292d27d4e652868a66",
             "category": "StartApp",
-            "crc": 3476039014,
-            "fileSize": 1182031,
+            "crc": 2478482327,
+            "fileSize": 1352274,
             "dependencies": [],
             "paths": [
                 "StartApp/live2d/model/08shizuku_unit",
-                "StartApp/live2d/model/08shizuku_unit/08shizuku_normal_3.0_f_t01.2048"
+                "StartApp/live2d/model/08shizuku_unit/08shizuku_unit_3.0_f_t01.2048"
             ],
             "isBuiltin": false
         },
@@ -37978,10 +37992,10 @@
             "bundleName": "home/banner/home_banner",
             "cacheFileName": "b7021d22132b8740d2b5ca148766ff9a",
             "cacheDirectoryName": "0095",
-            "hash": "ffe3dec0acd803d23ffab20352d0123f",
+            "hash": "9cf4b9d3b73f0bf3ec745dd9b7038a7d",
             "category": "StartApp",
-            "crc": 499440706,
-            "fileSize": 110441,
+            "crc": 4287638652,
+            "fileSize": 144789,
             "dependencies": [],
             "paths": [
                 "StartApp/home/banner/home_banner"
@@ -45052,14 +45066,14 @@
             "bundleName": "live2d/model/05minori_cloth002",
             "cacheFileName": "eaff6c8b1bda7b4b7fe7c1bb17cac693",
             "cacheDirectoryName": "9efc",
-            "hash": "d1342f18b0c9a9f6c601046b6c72df28",
+            "hash": "e4c5bd58a3de0cffe53cab720a279568",
             "category": "StartApp",
-            "crc": 4272771807,
-            "fileSize": 942104,
+            "crc": 2609468754,
+            "fileSize": 947215,
             "dependencies": [],
             "paths": [
                 "StartApp/live2d/model/05minori_cloth002",
-                "StartApp/live2d/model/05minori_cloth002/05minori_cloth002_3.0_f_t01.2048"
+                "StartApp/live2d/model/05minori_cloth002/05minori_cloth002_3.0_f_t02.2048"
             ],
             "isBuiltin": false
         },
@@ -55256,10 +55270,10 @@
             "bundleName": "scenario/unitstory/idol-story-chapter",
             "cacheFileName": "40737a17848afe992e89e8ec624d84c8",
             "cacheDirectoryName": "a6c5",
-            "hash": "e7e91d1dba5562e538221aa53389e4ec",
+            "hash": "293cb92b51a89bb626ae239a1cfe6906",
             "category": "StartApp",
-            "crc": 390300891,
-            "fileSize": 118518,
+            "crc": 4048697826,
+            "fileSize": 118520,
             "dependencies": [],
             "paths": [
                 "StartApp/scenario/unitstory/idol-story-chapter"
@@ -55800,10 +55814,10 @@
             "bundleName": "sound/scenario/voice/mmj_01_18",
             "cacheFileName": "5020f356395f6fc4eeecd605e2a413bf",
             "cacheDirectoryName": "c649",
-            "hash": "f417be53de1a95dc0111295b9226c123",
+            "hash": "ea045521eb17617b703d44513f3254a4",
             "category": "OnDemand",
-            "crc": 1296271923,
-            "fileSize": 4210885,
+            "crc": 1707666191,
+            "fileSize": 4204779,
             "dependencies": [],
             "paths": [
                 "OnDemand/sound/scenario/voice/mmj_01_18"
@@ -56116,6 +56130,20 @@
             "dependencies": [],
             "paths": [
                 "AdditionalVoice/sound/actionset/voice/areatalk01_089"
+            ],
+            "isBuiltin": false
+        },
+        "home/banner/banner_cp_double_unitexp": {
+            "bundleName": "home/banner/banner_cp_double_unitexp",
+            "cacheFileName": "624fa03cbd17ad2d62c4d560f6cad59c",
+            "cacheDirectoryName": "0095",
+            "hash": "6fe3069c28fd718a02f860b883d9da7b",
+            "category": "StartApp",
+            "crc": 1615828031,
+            "fileSize": 37728,
+            "dependencies": [],
+            "paths": [
+                "StartApp/home/banner/banner_cp_double_unitexp"
             ],
             "isBuiltin": false
         },
@@ -57910,6 +57938,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/live_pv/timeline/0067/penlight"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/select/banner/banner": {
+            "bundleName": "virtual_live/select/banner/banner",
+            "cacheFileName": "dee5afc4f0880826a275f79b72e509e0",
+            "cacheDirectoryName": "3282",
+            "hash": "d050f337d8deff572d73387ccb25cb9b",
+            "category": "OnDemand",
+            "crc": 3011054547,
+            "fileSize": 63104,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/select/banner/banner"
             ],
             "isBuiltin": false
         },
@@ -62373,6 +62415,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_bondscp_016_020"
+            ],
+            "isBuiltin": false
+        },
+        "live/2dmode/sekai_mv/0022": {
+            "bundleName": "live/2dmode/sekai_mv/0022",
+            "cacheFileName": "0c955e61156fb32001c839bbd97ca787",
+            "cacheDirectoryName": "2296",
+            "hash": "840dff6b2485742130000583c29ca902",
+            "category": "OnDemand",
+            "crc": 196155172,
+            "fileSize": 11208831,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live/2dmode/sekai_mv/0022"
             ],
             "isBuiltin": false
         },
@@ -72233,6 +72289,20 @@
             ],
             "isBuiltin": false
         },
+        "home/banner/banner_100_anniversary": {
+            "bundleName": "home/banner/banner_100_anniversary",
+            "cacheFileName": "32c77719413114490c18d65b1fe9be90",
+            "cacheDirectoryName": "0095",
+            "hash": "a15546665760338d04291b63e332e0fd",
+            "category": "StartApp",
+            "crc": 3115845855,
+            "fileSize": 36727,
+            "dependencies": [],
+            "paths": [
+                "StartApp/home/banner/banner_100_anniversary"
+            ],
+            "isBuiltin": false
+        },
         "sound/card_scenario/voice/017001_kanade01": {
             "bundleName": "sound/card_scenario/voice/017001_kanade01",
             "cacheFileName": "df991377ea60e16c7878712af9795065",
@@ -74915,10 +74985,10 @@
             "bundleName": "story/episode_image/idol-story-chapter",
             "cacheFileName": "09b6bbfc33d667c3ae6a0efb77060a30",
             "cacheDirectoryName": "ab7e",
-            "hash": "c44bc8f12d4301354edd50dac23c72d9",
+            "hash": "22db2af516449c1144cba186db556068",
             "category": "StartApp",
-            "crc": 4202345079,
-            "fileSize": 372015,
+            "crc": 1698250748,
+            "fileSize": 372159,
             "dependencies": [],
             "paths": [
                 "StartApp/story/episode_image/idol-story-chapter"
