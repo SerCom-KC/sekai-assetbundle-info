@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "os": "android",
     "bundles": {
         "live_pv/model/penlight/0071": {
@@ -12003,10 +12003,10 @@
             "bundleName": "live_pv/timeline/0068/stage",
             "cacheFileName": "e7aaf70022dfa77601746f181c557deb",
             "cacheDirectoryName": "9f43",
-            "hash": "4cbbc6855606b96f5286fbf677ea1e67",
+            "hash": "29398e7d524935de4910a74814ff9175",
             "category": "OnDemand",
-            "crc": 3103170023,
-            "fileSize": 12222,
+            "crc": 589080204,
+            "fileSize": 14129,
             "dependencies": [],
             "paths": [
                 "OnDemand/live_pv/timeline/0068/stage"
@@ -14902,7 +14902,7 @@
             "cacheDirectoryName": "842e",
             "hash": "ca2ac2de30205d14a6f49b5bac0833a7",
             "category": "Tutorial",
-            "crc": 4273566305,
+            "crc": 3168930544,
             "fileSize": 248284,
             "dependencies": [],
             "paths": [
@@ -36715,10 +36715,10 @@
             "bundleName": "live_pv/model/stage_decoration/0073",
             "cacheFileName": "e690b943efc360fe3d3501c4163ece32",
             "cacheDirectoryName": "1d3e",
-            "hash": "8e0474cb5a7cb3e426421642c5ae88e2",
+            "hash": "e1ba05853453e3d07827fc8da89e5338",
             "category": "OnDemand",
-            "crc": 2850718552,
-            "fileSize": 740202,
+            "crc": 2813576354,
+            "fileSize": 740195,
             "dependencies": [
                 "shader/live"
             ],
@@ -43890,10 +43890,10 @@
             "bundleName": "live_pv/timeline/0068/character",
             "cacheFileName": "8614b23e9dec3f3d1abcd5132692c2ed",
             "cacheDirectoryName": "9f43",
-            "hash": "536ef0dcd50ea16146bc0fe7abfd0823",
+            "hash": "e331554aad32bffd58a65c66e439d9e4",
             "category": "OnDemand",
-            "crc": 1044746492,
-            "fileSize": 15436922,
+            "crc": 3937377349,
+            "fileSize": 15254558,
             "dependencies": [],
             "paths": [
                 "OnDemand/live_pv/timeline/0068/character"
@@ -45544,7 +45544,7 @@
             "cacheDirectoryName": "842e",
             "hash": "65ae74ad2c960dd7a34e8369b931579c",
             "category": "Tutorial",
-            "crc": 4171520522,
+            "crc": 1257475750,
             "fileSize": 16741,
             "dependencies": [],
             "paths": [
@@ -52745,8 +52745,8 @@
             "cacheDirectoryName": "842e",
             "hash": "2a9355e2011865c52a00b9f93df75251",
             "category": "Tutorial",
-            "crc": 1396156110,
-            "fileSize": 122690,
+            "crc": 1140546595,
+            "fileSize": 122693,
             "dependencies": [],
             "paths": [
                 "Assets/Sekai/BuiltInAssets/AssetBundle/Resources/Tutorial/shader/live",
@@ -63680,10 +63680,10 @@
             "bundleName": "live_pv/model/camera_decoration/0068",
             "cacheFileName": "98be0a783ce2c59e81db52c8b58d1a36",
             "cacheDirectoryName": "8606",
-            "hash": "5b103af0a998146672a6f50a053640a9",
+            "hash": "34deb71627362dc51f78dde8e2020ecf",
             "category": "OnDemand",
-            "crc": 2745714244,
-            "fileSize": 179771,
+            "crc": 1051198132,
+            "fileSize": 64265,
             "dependencies": [
                 "shader/live"
             ],
