@@ -1,5 +1,5 @@
 {
-    "version": "1.0.10",
+    "version": "1.0.20",
     "os": "android",
     "bundles": {
         "live_pv/model/penlight/0071": {
@@ -3289,10 +3289,10 @@
             "bundleName": "music/long/an_0041_02",
             "cacheFileName": "99d63564599a2d2964bac128cb899257",
             "cacheDirectoryName": "4901",
-            "hash": "f5b602b237d8288fc9120876a354e51e",
+            "hash": "49108d4c825ce68b458b533feff53c34",
             "category": "OnDemand",
-            "crc": 3057499720,
-            "fileSize": 2181392,
+            "crc": 311055137,
+            "fileSize": 2181482,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0041_02"
@@ -3317,10 +3317,10 @@
             "bundleName": "music/long/an_0041_01",
             "cacheFileName": "25a3a50329ff880d6ce1492f140e6961",
             "cacheDirectoryName": "4901",
-            "hash": "37f526c76bc6d980314f14daf0070bd2",
+            "hash": "6712c3eb5d32efa0625392f529962cdb",
             "category": "OnDemand",
-            "crc": 1076346402,
-            "fileSize": 2181612,
+            "crc": 3806257007,
+            "fileSize": 2181595,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0041_01"
@@ -4598,10 +4598,10 @@
             "bundleName": "music/long/0041_01",
             "cacheFileName": "d363eb785456655a78663992a010b922",
             "cacheDirectoryName": "4901",
-            "hash": "ba8ee0f9b25c66fa47e9ce2729a151e5",
+            "hash": "55495695d5aa5fd53cd10359828308e5",
             "category": "OnDemand",
-            "crc": 3267639697,
-            "fileSize": 3359668,
+            "crc": 3629657689,
+            "fileSize": 3359342,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0041_01"
@@ -4612,10 +4612,10 @@
             "bundleName": "music/long/0041_02",
             "cacheFileName": "eba21d3d77e0d455c9602aae85f46496",
             "cacheDirectoryName": "4901",
-            "hash": "4fa21b953907042c0385e14a14ff9153",
+            "hash": "0b7bb85e6003386eb559337a19c4b74b",
             "category": "OnDemand",
-            "crc": 3818203307,
-            "fileSize": 2323768,
+            "crc": 665430166,
+            "fileSize": 2192260,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0041_02"
@@ -5767,10 +5767,10 @@
             "bundleName": "music/long/0086_01",
             "cacheFileName": "862f433dfdb52a03a566faca2ae1e7b0",
             "cacheDirectoryName": "4901",
-            "hash": "220d6492c02aa170fb6c49b351ea363c",
+            "hash": "7eefc39fb0b79423da584c44de69a613",
             "category": "OnDemand",
-            "crc": 644356959,
-            "fileSize": 1955399,
+            "crc": 2288023042,
+            "fileSize": 1864409,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0086_01"
@@ -8444,10 +8444,10 @@
             "bundleName": "music/long/vs_0041_01",
             "cacheFileName": "68bce779094a894ef59928d0f08fc6fd",
             "cacheDirectoryName": "4901",
-            "hash": "24fd5bf7fe535adcd622b4404909616d",
+            "hash": "b410f8cf85c000e853b9cff222c81732",
             "category": "OnDemand",
-            "crc": 1800312052,
-            "fileSize": 2152668,
+            "crc": 3643109256,
+            "fileSize": 2152718,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/vs_0041_01"
@@ -11745,6 +11745,20 @@
             ],
             "isBuiltin": false
         },
+        "home/banner/content_banner_pjsekai_youtube": {
+            "bundleName": "home/banner/content_banner_pjsekai_youtube",
+            "cacheFileName": "0d86df83818ce0471b4f7ad0b0c8bb8d",
+            "cacheDirectoryName": "0095",
+            "hash": "31197c00a22572c0f046b80a63d9cb63",
+            "category": "StartApp",
+            "crc": 335370168,
+            "fileSize": 11625,
+            "dependencies": [],
+            "paths": [
+                "StartApp/home/banner/content_banner_pjsekai_youtube"
+            ],
+            "isBuiltin": false
+        },
         "sound/actionset/voice/areatalk03_066": {
             "bundleName": "sound/actionset/voice/areatalk03_066",
             "cacheFileName": "a284bac07ad74be7a1a0d7f745219452",
@@ -12352,10 +12366,10 @@
             "bundleName": "live_pv/timeline/0068/stage",
             "cacheFileName": "e7aaf70022dfa77601746f181c557deb",
             "cacheDirectoryName": "9f43",
-            "hash": "4cbbc6855606b96f5286fbf677ea1e67",
+            "hash": "29398e7d524935de4910a74814ff9175",
             "category": "OnDemand",
-            "crc": 3103170023,
-            "fileSize": 12222,
+            "crc": 589080204,
+            "fileSize": 14129,
             "dependencies": [],
             "paths": [
                 "OnDemand/live_pv/timeline/0068/stage"
@@ -17205,6 +17219,20 @@
             ],
             "isBuiltin": false
         },
+        "music/music_score/0093_01": {
+            "bundleName": "music/music_score/0093_01",
+            "cacheFileName": "d369a30de4fefb5cd2ac28cc40651f8b",
+            "cacheDirectoryName": "ff8c",
+            "hash": "73acf7f42ecf4be4f5e041bcbc3f56a5",
+            "category": "StartApp",
+            "crc": 2696274184,
+            "fileSize": 12152,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/music_score/0093_01"
+            ],
+            "isBuiltin": false
+        },
         "honor/honor_0217": {
             "bundleName": "honor/honor_0217",
             "cacheFileName": "367502cf5a997d63f56cd33ef18651f5",
@@ -17988,6 +18016,20 @@
             ],
             "isBuiltin": false
         },
+        "music/short/se_0093_01": {
+            "bundleName": "music/short/se_0093_01",
+            "cacheFileName": "5499cac74a7cf92f62365e35da0496dd",
+            "cacheDirectoryName": "5cb3",
+            "hash": "6572788efcd341847a4e5c2c403b77bf",
+            "category": "StartApp",
+            "crc": 2791336290,
+            "fileSize": 357318,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/short/se_0093_01"
+            ],
+            "isBuiltin": false
+        },
         "live2d/model/13tsukasa_unit": {
             "bundleName": "live2d/model/13tsukasa_unit",
             "cacheFileName": "b5978af56e223e8419c54dc90b4135c0",
@@ -18511,6 +18553,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/dummy"
+            ],
+            "isBuiltin": false
+        },
+        "music/jacket/jacket_s_093": {
+            "bundleName": "music/jacket/jacket_s_093",
+            "cacheFileName": "8f92db609db8d251c8ecdb474ce9e894",
+            "cacheDirectoryName": "2fa7",
+            "hash": "2f9885fb66dfe6874604a72fce02dbc9",
+            "category": "StartApp",
+            "crc": 3500949242,
+            "fileSize": 215835,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/jacket/jacket_s_093"
             ],
             "isBuiltin": false
         },
@@ -19395,6 +19451,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/area_sd/sd_21miku_normal"
+            ],
+            "isBuiltin": false
+        },
+        "music/jacket/jacket_s_085": {
+            "bundleName": "music/jacket/jacket_s_085",
+            "cacheFileName": "749d1de683a0c6f7b6325044760815a0",
+            "cacheDirectoryName": "2fa7",
+            "hash": "249e9c4b78c87c74c9250a9b04c3b170",
+            "category": "StartApp",
+            "crc": 831146476,
+            "fileSize": 230453,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/jacket/jacket_s_085"
             ],
             "isBuiltin": false
         },
@@ -20928,6 +20998,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/scenario/background/bg_g000101"
+            ],
+            "isBuiltin": false
+        },
+        "music/jacket/jacket_s_045": {
+            "bundleName": "music/jacket/jacket_s_045",
+            "cacheFileName": "6320408972fe8202e78ee494f2c17742",
+            "cacheDirectoryName": "2fa7",
+            "hash": "9ac6ae4d35483f24beef86ff5687835c",
+            "category": "StartApp",
+            "crc": 2767253709,
+            "fileSize": 176436,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/jacket/jacket_s_045"
             ],
             "isBuiltin": false
         },
@@ -33419,10 +33503,10 @@
             "bundleName": "music/long/0064_01",
             "cacheFileName": "8e778e724a3a315a404f64fe04eaba67",
             "cacheDirectoryName": "4901",
-            "hash": "60b06e59fe5e303c245736dd9f90dada",
+            "hash": "784be472ed1b53008cee60084ff8eca5",
             "category": "OnDemand",
-            "crc": 2040189125,
-            "fileSize": 1926335,
+            "crc": 199007155,
+            "fileSize": 1926325,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0064_01"
@@ -36929,6 +37013,20 @@
             ],
             "isBuiltin": false
         },
+        "music/short/0064_01": {
+            "bundleName": "music/short/0064_01",
+            "cacheFileName": "f629ca30257e01ab13803d00f2632531",
+            "cacheDirectoryName": "5cb3",
+            "hash": "7bd3de8c57b3aecb4251ba1aeb612eb9",
+            "category": "StartApp",
+            "crc": 1936770607,
+            "fileSize": 291077,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/short/0064_01"
+            ],
+            "isBuiltin": false
+        },
         "sound/card_scenario/voice/018002_mafuyu01": {
             "bundleName": "sound/card_scenario/voice/018002_mafuyu01",
             "cacheFileName": "3bb3c3dafe707802ab31f9755179f671",
@@ -38248,10 +38346,10 @@
             "bundleName": "live_pv/model/stage_decoration/0073",
             "cacheFileName": "e690b943efc360fe3d3501c4163ece32",
             "cacheDirectoryName": "1d3e",
-            "hash": "8e0474cb5a7cb3e426421642c5ae88e2",
+            "hash": "e1ba05853453e3d07827fc8da89e5338",
             "category": "OnDemand",
-            "crc": 2850718552,
-            "fileSize": 740202,
+            "crc": 2813576354,
+            "fileSize": 740195,
             "dependencies": [
                 "shader/live"
             ],
@@ -44529,10 +44627,10 @@
             "bundleName": "music/long/vs_0085_01",
             "cacheFileName": "b8b610c004dde465b080149e10d7c80a",
             "cacheDirectoryName": "4901",
-            "hash": "46daed3f798fb2eb6aa3cc85ed7f587b",
+            "hash": "afc720a25e94f604bf079e90cdbe5b57",
             "category": "OnDemand",
-            "crc": 2599904641,
-            "fileSize": 1923650,
+            "crc": 739878660,
+            "fileSize": 1922133,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/vs_0085_01"
@@ -45210,10 +45308,10 @@
             "bundleName": "virtual_live/item/chara_rui",
             "cacheFileName": "3daebe9d9d76ccacda81f824cc1d8839",
             "cacheDirectoryName": "207c",
-            "hash": "e2663009a519ec4f9a423b35bab12169",
+            "hash": "722ee9ab17b50ec89b5019610ff2efbf",
             "category": "StartApp",
-            "crc": 1016131652,
-            "fileSize": 231691,
+            "crc": 2774305345,
+            "fileSize": 209711,
             "dependencies": [
                 "shader/particles"
             ],
@@ -45666,6 +45764,20 @@
             ],
             "isBuiltin": false
         },
+        "music/music_score/0045_01": {
+            "bundleName": "music/music_score/0045_01",
+            "cacheFileName": "bde4c691eec7e59c0b0e003153065088",
+            "cacheDirectoryName": "ff8c",
+            "hash": "bb3f7ed383ab3180545b48729e6db6b4",
+            "category": "StartApp",
+            "crc": 736057962,
+            "fileSize": 14308,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/music_score/0045_01"
+            ],
+            "isBuiltin": false
+        },
         "tutorial/slide/free_stamp": {
             "bundleName": "tutorial/slide/free_stamp",
             "cacheFileName": "97bbcfb65c4ad769155d32bac18558c9",
@@ -45684,10 +45796,10 @@
             "bundleName": "live_pv/timeline/0068/character",
             "cacheFileName": "8614b23e9dec3f3d1abcd5132692c2ed",
             "cacheDirectoryName": "9f43",
-            "hash": "536ef0dcd50ea16146bc0fe7abfd0823",
+            "hash": "e331554aad32bffd58a65c66e439d9e4",
             "category": "OnDemand",
-            "crc": 1044746492,
-            "fileSize": 15436922,
+            "crc": 3937377349,
+            "fileSize": 15254558,
             "dependencies": [],
             "paths": [
                 "OnDemand/live_pv/timeline/0068/character"
@@ -47041,10 +47153,10 @@
             "bundleName": "music/long/se_0093_01",
             "cacheFileName": "0401f35ca6f211fefa10de279dc752e8",
             "cacheDirectoryName": "4901",
-            "hash": "d244de576e356210ff0c7de6d0c376e9",
+            "hash": "c81b35e51d4e02e59e8ab8d597de8845",
             "category": "OnDemand",
-            "crc": 3994021483,
-            "fileSize": 1852807,
+            "crc": 1407183502,
+            "fileSize": 1739990,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/se_0093_01"
@@ -48576,6 +48688,20 @@
             ],
             "isBuiltin": false
         },
+        "music/music_score/0085_01": {
+            "bundleName": "music/music_score/0085_01",
+            "cacheFileName": "7e6b2a3c7301da7812bb5b73c51edf03",
+            "cacheDirectoryName": "ff8c",
+            "hash": "cf83bbd92fa58684ef0c8be657b54c66",
+            "category": "StartApp",
+            "crc": 1325411561,
+            "fileSize": 15411,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/music_score/0085_01"
+            ],
+            "isBuiltin": false
+        },
         "sound/gacha/get_voice/res011_no003": {
             "bundleName": "sound/gacha/get_voice/res011_no003",
             "cacheFileName": "d56267fc92084a3670815807a1a1c28b",
@@ -48706,10 +48832,10 @@
             "bundleName": "virtual_live/item/chara_tukasa",
             "cacheFileName": "27bd0f2f6736bdd0bf1866a91f95573a",
             "cacheDirectoryName": "207c",
-            "hash": "d8da7bee6b4aa71bce4f03c9317561f1",
+            "hash": "306becb994827001c5c8997a739265c4",
             "category": "StartApp",
-            "crc": 2957297773,
-            "fileSize": 187485,
+            "crc": 4091539878,
+            "fileSize": 234730,
             "dependencies": [],
             "paths": [
                 "StartApp/effect_asset/virtual_live/item/chara_tukasa"
@@ -53035,6 +53161,34 @@
             "dependencies": [],
             "paths": [
                 "StartApp/stamp/stamp0057"
+            ],
+            "isBuiltin": false
+        },
+        "music/long/an_0064_02": {
+            "bundleName": "music/long/an_0064_02",
+            "cacheFileName": "e228def762ae4cebfba85665451fd9a0",
+            "cacheDirectoryName": "4901",
+            "hash": "8c42e5bfb117dbcc9499bbdff9ca2039",
+            "category": "OnDemand",
+            "crc": 590468380,
+            "fileSize": 1930599,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/music/long/an_0064_02"
+            ],
+            "isBuiltin": false
+        },
+        "music/long/an_0064_01": {
+            "bundleName": "music/long/an_0064_01",
+            "cacheFileName": "cf7897195d43ed13b022c3326136656d",
+            "cacheDirectoryName": "4901",
+            "hash": "a91169a9928fcab070ee6e99d0afb238",
+            "category": "OnDemand",
+            "crc": 2705776250,
+            "fileSize": 1930523,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/music/long/an_0064_01"
             ],
             "isBuiltin": false
         },
@@ -61796,10 +61950,10 @@
             "bundleName": "virtual_live/mc/scenario/mc_ev_band_01_1",
             "cacheFileName": "4fbca91691009672e5af538f9b2ef046",
             "cacheDirectoryName": "c82d",
-            "hash": "b089b39a0220f841e8bf29f4e88614f7",
+            "hash": "5d5c24c41dc66eab6df20ba922a77200",
             "category": "OnDemand",
-            "crc": 2258542716,
-            "fileSize": 8711,
+            "crc": 3992385603,
+            "fileSize": 8714,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/mc/scenario/mc_ev_band_01_1"
@@ -61810,10 +61964,10 @@
             "bundleName": "virtual_live/mc/scenario/mc_ev_band_01_2",
             "cacheFileName": "d774c3c15c6cdc60b552386b71c69ab1",
             "cacheDirectoryName": "c82d",
-            "hash": "4bbf99adad807ad65ba377800b81f8b7",
+            "hash": "2151acec976da71be728644a97b665b4",
             "category": "OnDemand",
-            "crc": 3595864528,
-            "fileSize": 8453,
+            "crc": 3787494879,
+            "fileSize": 8457,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/mc/scenario/mc_ev_band_01_2"
@@ -62813,6 +62967,20 @@
             ],
             "isBuiltin": false
         },
+        "music/short/an_0064_02": {
+            "bundleName": "music/short/an_0064_02",
+            "cacheFileName": "136b892c9d652e511acc7bee6f351ad8",
+            "cacheDirectoryName": "5cb3",
+            "hash": "6c25016e7b01c10e160832bae7b61c01",
+            "category": "StartApp",
+            "crc": 2199882708,
+            "fileSize": 290681,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/short/an_0064_02"
+            ],
+            "isBuiltin": false
+        },
         "live_pv/model/character/body/03/0001/ladies_l": {
             "bundleName": "live_pv/model/character/body/03/0001/ladies_l",
             "cacheFileName": "019b9ce953f51785cef83c6dc9382d34",
@@ -62832,14 +63000,28 @@
             ],
             "isBuiltin": false
         },
+        "music/short/an_0064_01": {
+            "bundleName": "music/short/an_0064_01",
+            "cacheFileName": "488455e8a87374a69f95195ca44e3582",
+            "cacheDirectoryName": "5cb3",
+            "hash": "a4bab8b694cd6c8cccdac20c3586bd75",
+            "category": "StartApp",
+            "crc": 1104203038,
+            "fileSize": 292453,
+            "dependencies": [],
+            "paths": [
+                "StartApp/music/short/an_0064_01"
+            ],
+            "isBuiltin": false
+        },
         "music/music_score/0064_01": {
             "bundleName": "music/music_score/0064_01",
             "cacheFileName": "c7a1eae9c642b8dc5f35cba14bb4ea97",
             "cacheDirectoryName": "ff8c",
-            "hash": "32ddb434b0fc18c9674b465466170912",
+            "hash": "519ceb97b16e1febf0106ab86168bb38",
             "category": "StartApp",
-            "crc": 3262825835,
-            "fileSize": 13176,
+            "crc": 3500113811,
+            "fileSize": 14696,
             "dependencies": [],
             "paths": [
                 "StartApp/music/music_score/0064_01"
@@ -66293,10 +66475,10 @@
             "bundleName": "live_pv/model/camera_decoration/0068",
             "cacheFileName": "98be0a783ce2c59e81db52c8b58d1a36",
             "cacheDirectoryName": "8606",
-            "hash": "5b103af0a998146672a6f50a053640a9",
+            "hash": "34deb71627362dc51f78dde8e2020ecf",
             "category": "OnDemand",
-            "crc": 2745714244,
-            "fileSize": 179771,
+            "crc": 1051198132,
+            "fileSize": 64265,
             "dependencies": [
                 "shader/live"
             ],
@@ -72540,10 +72722,10 @@
             "bundleName": "thumbnail/music_jacket",
             "cacheFileName": "0de26e611a87fb166777a5e5a9a0960c",
             "cacheDirectoryName": "951d",
-            "hash": "8ebff5f37e03ad9103dc022b26203ad8",
+            "hash": "40c63a8ee5924f7b3dc861a4a144d05a",
             "category": "StartApp",
-            "crc": 816828824,
-            "fileSize": 1156751,
+            "crc": 413314220,
+            "fileSize": 1240534,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/music_jacket"
