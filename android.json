@@ -1,5 +1,5 @@
 {
-    "version": "1.0.20",
+    "version": "1.0.21",
     "os": "android",
     "bundles": {
         "live_pv/model/penlight/0071": {
@@ -15312,7 +15312,7 @@
             "cacheDirectoryName": "842e",
             "hash": "ca2ac2de30205d14a6f49b5bac0833a7",
             "category": "Tutorial",
-            "crc": 4273566305,
+            "crc": 3168930544,
             "fileSize": 248284,
             "dependencies": [],
             "paths": [
@@ -45768,10 +45768,10 @@
             "bundleName": "music/music_score/0045_01",
             "cacheFileName": "bde4c691eec7e59c0b0e003153065088",
             "cacheDirectoryName": "ff8c",
-            "hash": "bb3f7ed383ab3180545b48729e6db6b4",
+            "hash": "108b0440267fd56125c3c83452366719",
             "category": "StartApp",
-            "crc": 736057962,
-            "fileSize": 14308,
+            "crc": 2212696611,
+            "fileSize": 14971,
             "dependencies": [],
             "paths": [
                 "StartApp/music/music_score/0045_01"
@@ -47506,7 +47506,7 @@
             "cacheDirectoryName": "842e",
             "hash": "65ae74ad2c960dd7a34e8369b931579c",
             "category": "Tutorial",
-            "crc": 4171520522,
+            "crc": 1257475750,
             "fileSize": 16741,
             "dependencies": [],
             "paths": [
@@ -54903,8 +54903,8 @@
             "cacheDirectoryName": "842e",
             "hash": "2a9355e2011865c52a00b9f93df75251",
             "category": "Tutorial",
-            "crc": 1396156110,
-            "fileSize": 122690,
+            "crc": 1140546595,
+            "fileSize": 122693,
             "dependencies": [],
             "paths": [
                 "Assets/Sekai/BuiltInAssets/AssetBundle/Resources/Tutorial/shader/live",
