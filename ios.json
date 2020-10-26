@@ -1,5 +1,5 @@
 {
-    "version": "1.0.33",
+    "version": "1.1.0.0",
     "os": "ios",
     "bundles": {
         "live_pv/model/penlight/0071": {
@@ -360,6 +360,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/mc/voice/mc_2020halloween_1": {
+            "bundleName": "virtual_live/mc/voice/mc_2020halloween_1",
+            "cacheFileName": "a7f93037d8c756bbaed8b21a87f9acd8",
+            "cacheDirectoryName": "6e69",
+            "hash": "3c55f0270f1413c25af56756829a1155",
+            "category": "OnDemand",
+            "crc": 1979423473,
+            "fileSize": 486480,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/voice/mc_2020halloween_1"
+            ],
+            "isBuiltin": false
+        },
         "character/member_small/res003_no001": {
             "bundleName": "character/member_small/res003_no001",
             "cacheFileName": "6ce6c02d22f18a9818dcbfc52fbc2729",
@@ -371,6 +385,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/character/member_small/res003_no001"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/voice/mc_2020halloween_3": {
+            "bundleName": "virtual_live/mc/voice/mc_2020halloween_3",
+            "cacheFileName": "e7d816c8ea42c05be92d53d4d944164c",
+            "cacheDirectoryName": "6e69",
+            "hash": "395aa4227575e2b5af1b041ad5e2a672",
+            "category": "OnDemand",
+            "crc": 282770020,
+            "fileSize": 506953,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/voice/mc_2020halloween_3"
             ],
             "isBuiltin": false
         },
@@ -402,6 +430,34 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/mc/voice/mc_2020halloween_2": {
+            "bundleName": "virtual_live/mc/voice/mc_2020halloween_2",
+            "cacheFileName": "d908b4fb0525fec1f1497fa88a31840d",
+            "cacheDirectoryName": "6e69",
+            "hash": "0ee229f9ac084d92c848f5b50d371418",
+            "category": "OnDemand",
+            "crc": 1697926223,
+            "fileSize": 286570,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/voice/mc_2020halloween_2"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/voice/mc_2020halloween_5": {
+            "bundleName": "virtual_live/mc/voice/mc_2020halloween_5",
+            "cacheFileName": "8703bfed2ca3c7227ab27d517fcbaf6e",
+            "cacheDirectoryName": "6e69",
+            "hash": "e9ab7154413d55230705dfe064eef942",
+            "category": "OnDemand",
+            "crc": 3018962967,
+            "fileSize": 49773,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/voice/mc_2020halloween_5"
+            ],
+            "isBuiltin": false
+        },
         "character/member_small/res003_no005": {
             "bundleName": "character/member_small/res003_no005",
             "cacheFileName": "f8a1bc7ebfa11eff5c62ec90615b7816",
@@ -413,6 +469,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/character/member_small/res003_no005"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/voice/mc_2020halloween_4": {
+            "bundleName": "virtual_live/mc/voice/mc_2020halloween_4",
+            "cacheFileName": "84512c226309ebecd5daec4c0fac0a90",
+            "cacheDirectoryName": "6e69",
+            "hash": "e5b097279c2b0cef4e5cda4a5150d028",
+            "category": "OnDemand",
+            "crc": 1598982696,
+            "fileSize": 321764,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/voice/mc_2020halloween_4"
             ],
             "isBuiltin": false
         },
@@ -441,6 +511,62 @@
             "dependencies": [],
             "paths": [
                 "StartApp/character/member_small/res003_no003"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/voice/mc_2020halloween_6": {
+            "bundleName": "virtual_live/mc/voice/mc_2020halloween_6",
+            "cacheFileName": "7cced12206d9f66ef5ab9f4ecdb81ffa",
+            "cacheDirectoryName": "6e69",
+            "hash": "a0ff575006a232196aa5c6b19c7c230c",
+            "category": "OnDemand",
+            "crc": 2732213942,
+            "fileSize": 336831,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/voice/mc_2020halloween_6"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/head_optional/0052/a02/01": {
+            "bundleName": "live_pv/model/character/color_variation/head_optional/0052/a02/01",
+            "cacheFileName": "395b648bdff63609bca8ab28b1e94e5c",
+            "cacheDirectoryName": "38b7",
+            "hash": "b6312f5798db01abfdbacd6b753189b9",
+            "category": "OnDemand",
+            "crc": 1189304772,
+            "fileSize": 85475,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/head_optional/0052/a02/01"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/head_optional/0052/a02/02": {
+            "bundleName": "live_pv/model/character/color_variation/head_optional/0052/a02/02",
+            "cacheFileName": "1e7ccb1a0cc8c6787e83eacd20661793",
+            "cacheDirectoryName": "38b7",
+            "hash": "d00d245a3879ba4c292810dc0f62745e",
+            "category": "OnDemand",
+            "crc": 4293367681,
+            "fileSize": 97682,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/head_optional/0052/a02/02"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/head_optional/0052/a02/03": {
+            "bundleName": "live_pv/model/character/color_variation/head_optional/0052/a02/03",
+            "cacheFileName": "1e3bb09be361dd0369d80e23c1c6afb5",
+            "cacheDirectoryName": "38b7",
+            "hash": "5795d520327e297884f0539c57f0cccd",
+            "category": "OnDemand",
+            "crc": 2256546002,
+            "fileSize": 88803,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/head_optional/0052/a02/03"
             ],
             "isBuiltin": false
         },
@@ -750,10 +876,10 @@
             "bundleName": "thumbnail/resource_box",
             "cacheFileName": "5d8b9e0a9fb65c08ff8864c74956351d",
             "cacheDirectoryName": "951d",
-            "hash": "949b462e5a30000720b50a7be24624ea",
+            "hash": "38c6f5d407f716b234a8c2c892b9013b",
             "category": "StartApp",
-            "crc": 856466907,
-            "fileSize": 25376,
+            "crc": 3586051429,
+            "fileSize": 38786,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/resource_box"
@@ -2289,6 +2415,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/stage_animation/idol_meltydeco03_pv": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltydeco03_pv",
+            "cacheFileName": "dce15f02ecca0918ff89d9d0e82a905e",
+            "cacheDirectoryName": "2337",
+            "hash": "e7dbb58ce4487fab45900ff1b5adb4d1",
+            "category": "OnDemand",
+            "crc": 1876097464,
+            "fileSize": 6562,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltydeco03_pv"
+            ],
+            "isBuiltin": false
+        },
         "virtual_live/performer/motion/m_normal_nod_01": {
             "bundleName": "virtual_live/performer/motion/m_normal_nod_01",
             "cacheFileName": "2ca5f3caa1212da2aa40a1dbeac4e487",
@@ -2779,6 +2919,38 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/effect/stage_meltycracker01": {
+            "bundleName": "virtual_live/live/effect/stage_meltycracker01",
+            "cacheFileName": "5968a244e2a39d88afa560565832b43f",
+            "cacheDirectoryName": "bbb8",
+            "hash": "c6e137b892b717170462000dfcca294f",
+            "category": "OnDemand",
+            "crc": 1947112972,
+            "fileSize": 30768,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/virtual_live/live/effect/stage_meltycracker01"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/effect/stage_meltycracker02": {
+            "bundleName": "virtual_live/live/effect/stage_meltycracker02",
+            "cacheFileName": "0b9e334e5a0c5c543772cd098b726140",
+            "cacheDirectoryName": "bbb8",
+            "hash": "8fe72e7d215df24ae6708f0df6286681",
+            "category": "OnDemand",
+            "crc": 1133035876,
+            "fileSize": 32058,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/virtual_live/live/effect/stage_meltycracker02"
+            ],
+            "isBuiltin": false
+        },
         "live_pv/model/character/color_variation/body/99/0012/ladies_m/01": {
             "bundleName": "live_pv/model/character/color_variation/body/99/0012/ladies_m/01",
             "cacheFileName": "44d4b2b3e1360df9993ead41068a85e2",
@@ -2835,6 +3007,20 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0051/boys/01": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0051/boys/01",
+            "cacheFileName": "2dea217905cfd963fc3eb235dbc0e8cc",
+            "cacheDirectoryName": "adf6",
+            "hash": "bce1884684fe3e11353fad0b17446177",
+            "category": "OnDemand",
+            "crc": 2017862229,
+            "fileSize": 101029,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0051/boys/01"
+            ],
+            "isBuiltin": false
+        },
         "stamp/stamp0382": {
             "bundleName": "stamp/stamp0382",
             "cacheFileName": "03132d1b666e8808a2babe4b67fceebd",
@@ -2849,6 +3035,20 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0051/boys/02": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0051/boys/02",
+            "cacheFileName": "8322b02c819bd7e1ef3ed3022f276597",
+            "cacheDirectoryName": "adf6",
+            "hash": "8f74716e353e5c8644fba43238b6b50a",
+            "category": "OnDemand",
+            "crc": 467460177,
+            "fileSize": 103924,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0051/boys/02"
+            ],
+            "isBuiltin": false
+        },
         "stamp/stamp0383": {
             "bundleName": "stamp/stamp0383",
             "cacheFileName": "c7987a5921bff286386bbd5732aca24b",
@@ -2860,6 +3060,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/stamp/stamp0383"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0051/boys/03": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0051/boys/03",
+            "cacheFileName": "ce50791c763c4d32a249d3a55d8e7cfd",
+            "cacheDirectoryName": "adf6",
+            "hash": "3040a6769339146603230e39f29a96a0",
+            "category": "OnDemand",
+            "crc": 769169674,
+            "fileSize": 102017,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0051/boys/03"
             ],
             "isBuiltin": false
         },
@@ -4773,7 +4987,7 @@
             "cacheDirectoryName": "b1a2",
             "hash": "86519f2a233c9e04ce505cbbbb9fd871",
             "category": "OnDemand",
-            "crc": 1231464859,
+            "crc": 1065298581,
             "fileSize": 375203,
             "dependencies": [],
             "paths": [
@@ -5936,6 +6150,34 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0051/mens/02": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0051/mens/02",
+            "cacheFileName": "6c753d5019069a421da2f32352810bea",
+            "cacheDirectoryName": "0c12",
+            "hash": "fe53b321bc4d4ead573de6b061776079",
+            "category": "OnDemand",
+            "crc": 1616516098,
+            "fileSize": 103767,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0051/mens/02"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0051/mens/01": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0051/mens/01",
+            "cacheFileName": "4f00c9d80a5b6a96f109a0c463444f73",
+            "cacheDirectoryName": "0c12",
+            "hash": "cd7a4622d49939f13559b3ee1a797747",
+            "category": "OnDemand",
+            "crc": 1416562459,
+            "fileSize": 101022,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0051/mens/01"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_024_025_first_1": {
             "bundleName": "live/voice/cutin/system_bondscp_024_025_first_1",
             "cacheFileName": "c0f96e910e04f0b9ff127888b34e53cf",
@@ -5947,6 +6189,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_bondscp_024_025_first_1"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0051/mens/03": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0051/mens/03",
+            "cacheFileName": "364cb864b8fbfaf528f7c5fe1308374a",
+            "cacheDirectoryName": "0c12",
+            "hash": "7232a264a62b9862129879bf5907a752",
+            "category": "OnDemand",
+            "crc": 2406165224,
+            "fileSize": 102122,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0051/mens/03"
             ],
             "isBuiltin": false
         },
@@ -5984,7 +6240,7 @@
             "cacheDirectoryName": "bf0b",
             "hash": "3e5a4a14a5dd03581f0cfff0c62ae930",
             "category": "OnDemand",
-            "crc": 342406667,
+            "crc": 2597813662,
             "fileSize": 319519,
             "dependencies": [],
             "paths": [
@@ -6124,6 +6380,20 @@
             ],
             "isBuiltin": false
         },
+        "honor/honor_0304": {
+            "bundleName": "honor/honor_0304",
+            "cacheFileName": "c03c926741c3304bb8e9767f21aa376d",
+            "cacheDirectoryName": "b2f3",
+            "hash": "77ce1f3b8e63ee36145c7a4e30a1ea3c",
+            "category": "StartApp",
+            "crc": 19161316,
+            "fileSize": 15847,
+            "dependencies": [],
+            "paths": [
+                "StartApp/honor/honor_0304"
+            ],
+            "isBuiltin": false
+        },
         "virtual_live/performer/motion/m_normal_greeting_02": {
             "bundleName": "virtual_live/performer/motion/m_normal_greeting_02",
             "cacheFileName": "662a8451f00caf227dd98e0c47b2cf64",
@@ -6251,6 +6521,48 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_m/02": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_m/02",
+            "cacheFileName": "15f5654c3f061e1838086fcf62e46ffc",
+            "cacheDirectoryName": "32fb",
+            "hash": "3d006227d13e50336544ade8d63a07dd",
+            "category": "OnDemand",
+            "crc": 1972918541,
+            "fileSize": 130262,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_m/02"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_m/01": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_m/01",
+            "cacheFileName": "fff2d0c4cb8e0c37b4857976a24e41a9",
+            "cacheDirectoryName": "32fb",
+            "hash": "5f9875059d5dc898ffe174044031debc",
+            "category": "OnDemand",
+            "crc": 768820761,
+            "fileSize": 135519,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_m/01"
+            ],
+            "isBuiltin": false
+        },
+        "home/banner/banner_premiummissionpass_2020_11": {
+            "bundleName": "home/banner/banner_premiummissionpass_2020_11",
+            "cacheFileName": "8b04a87484bceccde412bb4f42ff0e63",
+            "cacheDirectoryName": "0095",
+            "hash": "86968e3771b61f990d57e763ebaaa1b6",
+            "category": "StartApp",
+            "crc": 503104154,
+            "fileSize": 28097,
+            "dependencies": [],
+            "paths": [
+                "StartApp/home/banner/banner_premiummissionpass_2020_11"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_020_019_second_1": {
             "bundleName": "live/voice/cutin/system_bondscp_020_019_second_1",
             "cacheFileName": "5a430b1482920029cffb60c815998170",
@@ -6262,6 +6574,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_bondscp_020_019_second_1"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_m/03": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_m/03",
+            "cacheFileName": "e843f1dad42674a79372fbdf3cd0d482",
+            "cacheDirectoryName": "32fb",
+            "hash": "2c20eaf31ed30750352030aeddcef37d",
+            "category": "OnDemand",
+            "crc": 584521407,
+            "fileSize": 132464,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_m/03"
             ],
             "isBuiltin": false
         },
@@ -6369,10 +6695,10 @@
             "bundleName": "music/long/0050_01",
             "cacheFileName": "26dc6f8173235c9e65ff2c8274bbd887",
             "cacheDirectoryName": "4901",
-            "hash": "6c27703f953ce912891cab4a2933032f",
+            "hash": "e979b5e05ad9a634e2ce85b5475b2ea1",
             "category": "OnDemand",
-            "crc": 4001681186,
-            "fileSize": 1915117,
+            "crc": 619758014,
+            "fileSize": 1915204,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0050_01"
@@ -6967,10 +7293,10 @@
             "bundleName": "music/long/0049_01",
             "cacheFileName": "a065786dcf768ed5c3771c666547495a",
             "cacheDirectoryName": "4901",
-            "hash": "610493c2d968ad9c7c520f5381dc01cf",
+            "hash": "f8b100028b8a600426c249af92e580dd",
             "category": "OnDemand",
-            "crc": 2764177829,
-            "fileSize": 2091830,
+            "crc": 218125806,
+            "fileSize": 2091932,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0049_01"
@@ -9572,7 +9898,7 @@
             "cacheDirectoryName": "4513",
             "hash": "20ff92c9b27f8871cda0800a0a29c48c",
             "category": "OnDemand",
-            "crc": 1680697568,
+            "crc": 69113208,
             "fileSize": 271659,
             "dependencies": [],
             "paths": [
@@ -11025,10 +11351,10 @@
             "bundleName": "music/long/0022_02",
             "cacheFileName": "82234d6115870fcdc670ae35623b2ce6",
             "cacheDirectoryName": "4901",
-            "hash": "25f6d5a8e554ddccc6cbc0407d2e9ab0",
+            "hash": "0d1ff240a20a39f3379997577f6873b9",
             "category": "OnDemand",
-            "crc": 4281384531,
-            "fileSize": 1576114,
+            "crc": 3464754328,
+            "fileSize": 1576210,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0022_02"
@@ -11070,10 +11396,10 @@
             "bundleName": "music/long/0022_01",
             "cacheFileName": "b180e4bc04f9ebe7d63d4a4291081a3f",
             "cacheDirectoryName": "4901",
-            "hash": "bc6690b2a1b4d3db9cb8c85ab641f130",
+            "hash": "2a0fc460828a5b10e5a3f79366d49cc5",
             "category": "OnDemand",
-            "crc": 3516766517,
-            "fileSize": 1573486,
+            "crc": 3629796947,
+            "fileSize": 1573610,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0022_01"
@@ -13195,7 +13521,7 @@
             "cacheDirectoryName": "714f",
             "hash": "cfafb609b9c86df77f4dc5d0b483ba02",
             "category": "StartApp",
-            "crc": 2768232913,
+            "crc": 2720419518,
             "fileSize": 512609,
             "dependencies": [
                 "live_pv/sp/gacha/effect",
@@ -13261,7 +13587,7 @@
             "cacheDirectoryName": "9b3a",
             "hash": "f44a1896555fab19b8b138d735325907",
             "category": "OnDemand",
-            "crc": 3467273555,
+            "crc": 331621798,
             "fileSize": 259605,
             "dependencies": [],
             "paths": [
@@ -14357,10 +14683,10 @@
             "bundleName": "loginbonus/event/100_anniversary",
             "cacheFileName": "2f37d77e71fd3ec082b94e5f53b9daaa",
             "cacheDirectoryName": "9521",
-            "hash": "e399629dea9f7a8af3437c576f52aa97",
+            "hash": "b23ee1c08cd191ac3206e8b12e63268d",
             "category": "OnDemand",
-            "crc": 1452601373,
-            "fileSize": 1267556,
+            "crc": 1299984222,
+            "fileSize": 1266682,
             "dependencies": [],
             "paths": [
                 "OnDemand/loginbonus/event/100_anniversary"
@@ -14904,10 +15230,10 @@
             "bundleName": "music/long/0006_01",
             "cacheFileName": "ae1d2d0275b6154229f0147a608033e7",
             "cacheDirectoryName": "4901",
-            "hash": "90314385ac2d753f11b41370dea8fc93",
+            "hash": "c3687b6ca667a9b20cfe34eb2ecce689",
             "category": "OnDemand",
-            "crc": 2928122510,
-            "fileSize": 1378459,
+            "crc": 1195570328,
+            "fileSize": 1378573,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0006_01"
@@ -14946,10 +15272,10 @@
             "bundleName": "music/long/0006_02",
             "cacheFileName": "e372a044ad495f5d66d57d9d876c877d",
             "cacheDirectoryName": "4901",
-            "hash": "7230347bdd08ba2290064588152c8bdd",
+            "hash": "b924a2c47e0a4bd8f26fa3bb83c30b8e",
             "category": "OnDemand",
-            "crc": 4031017646,
-            "fileSize": 1378622,
+            "crc": 4121006248,
+            "fileSize": 1378750,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0006_02"
@@ -15807,6 +16133,25 @@
             "dependencies": [],
             "paths": [
                 "AdditionalVoice/sound/actionset/voice/areatalk03_092"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/lobby/default": {
+            "bundleName": "virtual_live/lobby/default",
+            "cacheFileName": "c15d6cd4a11455c764e772dfff80d94d",
+            "cacheDirectoryName": "0bd6",
+            "hash": "69b16dc3d882f5c770072249fecde494",
+            "category": "OnDemand",
+            "crc": 617998346,
+            "fileSize": 1484179,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/lobby/default",
+                "OnDemand/virtual_live/lobby/default/ball",
+                "OnDemand/virtual_live/lobby/default/NavMeshData",
+                "OnDemand/virtual_live/lobby/default/separate/ground",
+                "OnDemand/virtual_live/lobby/default/separate/ring",
+                "OnDemand/virtual_live/lobby/default/shop"
             ],
             "isBuiltin": false
         },
@@ -17689,7 +18034,7 @@
             "cacheFileName": "ce3c42953582587a633bce1684f2329e",
             "cacheDirectoryName": "76b1",
             "hash": "74fe30192a0e249603c6c8b1060a1aa0",
-            "category": "StartApp",
+            "category": "OnDemand",
             "crc": 2335209817,
             "fileSize": 143887,
             "dependencies": [],
@@ -18590,6 +18935,20 @@
             ],
             "isBuiltin": false
         },
+        "crystal_shop/thumbnail/live_mission_pass": {
+            "bundleName": "crystal_shop/thumbnail/live_mission_pass",
+            "cacheFileName": "811f1f647a192033d3bd5f29a6622c6e",
+            "cacheDirectoryName": "5bcc",
+            "hash": "4424b2db2e719d73fde54b7190bd65ab",
+            "category": "StartApp",
+            "crc": 2704797246,
+            "fileSize": 218506,
+            "dependencies": [],
+            "paths": [
+                "StartApp/crystal_shop/thumbnail/live_mission_pass"
+            ],
+            "isBuiltin": false
+        },
         "honor/honor_0232": {
             "bundleName": "honor/honor_0232",
             "cacheFileName": "4441d127f5b7782761f0e0384f7c7920",
@@ -18979,7 +19338,7 @@
             "cacheDirectoryName": "0895",
             "hash": "5e6c0fa6be249be4ac470f2513772c50",
             "category": "OnDemand",
-            "crc": 2647948925,
+            "crc": 993532127,
             "fileSize": 281021,
             "dependencies": [],
             "paths": [
@@ -19866,6 +20225,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/stage_animation/idol_meltysubmonitor_light_off": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltysubmonitor_light_off",
+            "cacheFileName": "c9dd59f173f6e00bd0ae21cdb3487426",
+            "cacheDirectoryName": "2337",
+            "hash": "3336ed58ed0288abceccd7aa73e249f5",
+            "category": "OnDemand",
+            "crc": 3563046186,
+            "fileSize": 6540,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltysubmonitor_light_off"
+            ],
+            "isBuiltin": false
+        },
         "sound/card_scenario/voice/023001_len02": {
             "bundleName": "sound/card_scenario/voice/023001_len02",
             "cacheFileName": "cac41375599a6caec2c562973e5a7677",
@@ -20059,6 +20432,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/mc/voice/mc_pre_piapro_06"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/message/balloon": {
+            "bundleName": "virtual_live/message/balloon",
+            "cacheFileName": "6294e6a2d26a09dd188692028f4a4974",
+            "cacheDirectoryName": "35dd",
+            "hash": "4939d7ff87d55d3c0271190f5c7905e4",
+            "category": "StartApp",
+            "crc": 3984491295,
+            "fileSize": 12362,
+            "dependencies": [],
+            "paths": [
+                "StartApp/virtual_live/message/balloon"
             ],
             "isBuiltin": false
         },
@@ -21463,7 +21850,7 @@
             "cacheDirectoryName": "c69a",
             "hash": "42ad6c918cc1d96dd4eca6993c814016",
             "category": "OnDemand",
-            "crc": 1397497157,
+            "crc": 3277700799,
             "fileSize": 222937,
             "dependencies": [],
             "paths": [
@@ -21865,10 +22252,10 @@
             "bundleName": "loginbonus/event/150_anniversary",
             "cacheFileName": "75047a089071b605950ba253016bb365",
             "cacheDirectoryName": "9521",
-            "hash": "d163340ce0cb74c83143e1750c791fe9",
+            "hash": "e4578d42dde384a3881b6859331d7121",
             "category": "OnDemand",
-            "crc": 1473927477,
-            "fileSize": 1332719,
+            "crc": 2459803448,
+            "fileSize": 1331656,
             "dependencies": [],
             "paths": [
                 "OnDemand/loginbonus/event/150_anniversary"
@@ -22435,7 +22822,7 @@
             "cacheDirectoryName": "9f43",
             "hash": "67ed08e985a16146471c696d57a61ad5",
             "category": "OnDemand",
-            "crc": 217354145,
+            "crc": 2124900480,
             "fileSize": 144598,
             "dependencies": [],
             "paths": [
@@ -22681,6 +23068,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/performance_data/0022_meltyland": {
+            "bundleName": "virtual_live/live/performance_data/0022_meltyland",
+            "cacheFileName": "1795e2bed3582a666647c569a206b999",
+            "cacheDirectoryName": "0ba3",
+            "hash": "f3bf77c018ea8fb5a573b34aa041d08d",
+            "category": "OnDemand",
+            "crc": 120759261,
+            "fileSize": 4815,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/performance_data/0022_meltyland"
+            ],
+            "isBuiltin": false
+        },
         "model3d/model/stage_object/drum01": {
             "bundleName": "model3d/model/stage_object/drum01",
             "cacheFileName": "c4ee5086af6fb6d4f9a6393d1c277e78",
@@ -22880,10 +23281,10 @@
             "bundleName": "thumbnail/avatar_accessory",
             "cacheFileName": "67a5612daf647abcb02bfaf230db8c43",
             "cacheDirectoryName": "951d",
-            "hash": "1c135004acf6aa2c2dc163b5ab40fdab",
+            "hash": "b26b4aa2a195fa6524796f3942e42106",
             "category": "StartApp",
-            "crc": 3397209496,
-            "fileSize": 25493,
+            "crc": 2196010482,
+            "fileSize": 30473,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/avatar_accessory"
@@ -23136,13 +23537,27 @@
             "bundleName": "music/long/0018_02",
             "cacheFileName": "fc9058dbfc59d2b24d7b6badb4982598",
             "cacheDirectoryName": "4901",
-            "hash": "be2f473ee645ad1386b58602f5e6bb31",
+            "hash": "2833879314961d21bda7528a8896fc27",
             "category": "OnDemand",
-            "crc": 179014521,
-            "fileSize": 1847854,
+            "crc": 2311001636,
+            "fileSize": 1847697,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0018_02"
+            ],
+            "isBuiltin": false
+        },
+        "music/long/0018_01": {
+            "bundleName": "music/long/0018_01",
+            "cacheFileName": "06a978b8d3f5e80ac058ca331aa36a01",
+            "cacheDirectoryName": "4901",
+            "hash": "1a2b8e2596192d79852ea886fe3cf195",
+            "category": "OnDemand",
+            "crc": 434332047,
+            "fileSize": 1828433,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/music/long/0018_01"
             ],
             "isBuiltin": false
         },
@@ -23895,7 +24310,7 @@
             "cacheDirectoryName": "7e50",
             "hash": "1c264d3b33a35459c72287b74f530277",
             "category": "OnDemand",
-            "crc": 2270201821,
+            "crc": 1610141939,
             "fileSize": 279604,
             "dependencies": [],
             "paths": [
@@ -24088,6 +24503,34 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/avatar/skin/fullset_0009": {
+            "bundleName": "virtual_live/avatar/skin/fullset_0009",
+            "cacheFileName": "1230a0fe141df90d85b1d016cb9c0ef9",
+            "cacheDirectoryName": "8d76",
+            "hash": "66dd8366ec8cba2992308bf59077c90f",
+            "category": "StartApp",
+            "crc": 1469412778,
+            "fileSize": 36200,
+            "dependencies": [],
+            "paths": [
+                "StartApp/virtual_live/avatar/skin/fullset_0009"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltyillumination01_off": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltyillumination01_off",
+            "cacheFileName": "9bf52ab5ffa72257d1b17b6ea8215690",
+            "cacheDirectoryName": "2337",
+            "hash": "1347d2e66cc8aa6d416a6f19f7c33956",
+            "category": "OnDemand",
+            "crc": 4002472056,
+            "fileSize": 6299,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltyillumination01_off"
+            ],
+            "isBuiltin": false
+        },
         "character/member_small/res004_no005": {
             "bundleName": "character/member_small/res004_no005",
             "cacheFileName": "4eba3d53db21218813763cd140d18857",
@@ -24106,10 +24549,10 @@
             "bundleName": "music/long/an_0060_01",
             "cacheFileName": "b158a473bac8dce2cf51aaaa35e4c818",
             "cacheDirectoryName": "4901",
-            "hash": "6d0cd908bbcb447fcb424da56e0e98e1",
+            "hash": "74647f565a7159ae2ae2fc4e81be158f",
             "category": "OnDemand",
-            "crc": 440558599,
-            "fileSize": 1461891,
+            "crc": 1870743598,
+            "fileSize": 1462167,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0060_01"
@@ -24120,10 +24563,10 @@
             "bundleName": "music/long/an_0060_03",
             "cacheFileName": "163c40d758460bdf930e667d44c924e7",
             "cacheDirectoryName": "4901",
-            "hash": "4692285497707ebbf9bb940aa21dec26",
+            "hash": "2fc3e97ee28f7d4dcf3dd052515db4ed",
             "category": "OnDemand",
-            "crc": 2093302957,
-            "fileSize": 1462014,
+            "crc": 259207121,
+            "fileSize": 1462096,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0060_03"
@@ -24134,10 +24577,10 @@
             "bundleName": "music/long/an_0060_02",
             "cacheFileName": "53d96770bd5e5992c0d21f605e873496",
             "cacheDirectoryName": "4901",
-            "hash": "04cc7591f86fff6cef576019a7925a32",
+            "hash": "007a47338636ce7059272aebaa758df0",
             "category": "OnDemand",
-            "crc": 1682237871,
-            "fileSize": 1461950,
+            "crc": 3068160220,
+            "fileSize": 1462032,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0060_02"
@@ -24155,6 +24598,25 @@
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/character_rank_exp"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/head_optional/0051/a05": {
+            "bundleName": "live_pv/model/character/head_optional/0051/a05",
+            "cacheFileName": "82ab99ac7ad95415ffd979f1111291c5",
+            "cacheDirectoryName": "97a4",
+            "hash": "f7441879ecb899bb97c990a16cf7aad7",
+            "category": "StartApp",
+            "crc": 262745738,
+            "fileSize": 62330,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/head_optional/0051/a05",
+                "OnDemand/live_pv/model/character/head_optional/0051/a05/fbx",
+                "OnDemand/live_pv/model/character/head_optional/0051/a05/fbx/Materials",
+                "OnDemand/live_pv/model/character/head_optional/0051/a05/sourceimages"
             ],
             "isBuiltin": false
         },
@@ -24564,10 +25026,10 @@
             "bundleName": "music/long/an_0060_04",
             "cacheFileName": "208467d08144aa724c5604e82a619e92",
             "cacheDirectoryName": "4901",
-            "hash": "25d1f219e7ce221dd5225de855c33051",
+            "hash": "3dba4cb71fe7f6a52c8cc157fd2b945f",
             "category": "OnDemand",
-            "crc": 381982303,
-            "fileSize": 1461914,
+            "crc": 1824374691,
+            "fileSize": 1461998,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0060_04"
@@ -24993,10 +25455,10 @@
             "bundleName": "virtual_live/live/stage_settings/0005",
             "cacheFileName": "378f0a914b647675bca692cf1575bd64",
             "cacheDirectoryName": "b7b8",
-            "hash": "169299fe8fce401a448b52c9cc3bfd0b",
+            "hash": "11fd89543141d6473d086a3f003d78e5",
             "category": "OnDemand",
-            "crc": 1305302373,
-            "fileSize": 2305,
+            "crc": 1092922981,
+            "fileSize": 2450,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/live/stage_settings/0005"
@@ -25007,10 +25469,10 @@
             "bundleName": "virtual_live/live/stage_settings/0006",
             "cacheFileName": "834a92ab10c8c4bdb875ae0aad43587d",
             "cacheDirectoryName": "b7b8",
-            "hash": "0e00d6bb2ef39a9d07c8690c925b96d7",
+            "hash": "d8b774000056a406ab032c9a5aa0a98c",
             "category": "OnDemand",
-            "crc": 1057999261,
-            "fileSize": 2323,
+            "crc": 4166852609,
+            "fileSize": 2462,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/live/stage_settings/0006"
@@ -25021,10 +25483,10 @@
             "bundleName": "virtual_live/live/stage_settings/0001",
             "cacheFileName": "abf49fdb12bb0adac4941d99365029fe",
             "cacheDirectoryName": "b7b8",
-            "hash": "b869497a6871a8f7e98df2241cc76800",
+            "hash": "b9d043312cdd7d5e765f6faa1b4f083d",
             "category": "OnDemand",
-            "crc": 449104762,
-            "fileSize": 2325,
+            "crc": 2721727501,
+            "fileSize": 2465,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/live/stage_settings/0001"
@@ -25035,10 +25497,10 @@
             "bundleName": "virtual_live/live/stage_settings/0002",
             "cacheFileName": "3f3ace1579a9e16ef1e835559b2afa9a",
             "cacheDirectoryName": "b7b8",
-            "hash": "33b46ef73f63cfcbca63c30241363896",
+            "hash": "71ac99b547ec5099795852d37b48e89b",
             "category": "OnDemand",
-            "crc": 2561024321,
-            "fileSize": 2385,
+            "crc": 1881831826,
+            "fileSize": 2528,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/live/stage_settings/0002"
@@ -25063,10 +25525,10 @@
             "bundleName": "virtual_live/live/stage_settings/0003",
             "cacheFileName": "66cb5358659761d6ee79831bcb60a81a",
             "cacheDirectoryName": "b7b8",
-            "hash": "e2cf34b75d26d39135e1e309423b9686",
+            "hash": "2ec2a451b1383d176d512be7f9df523c",
             "category": "OnDemand",
-            "crc": 2558355371,
-            "fileSize": 2326,
+            "crc": 2790215657,
+            "fileSize": 2469,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/live/stage_settings/0003"
@@ -25105,10 +25567,10 @@
             "bundleName": "virtual_live/live/stage_settings/0004",
             "cacheFileName": "83a4ed9699c82bd004c71cc3914da009",
             "cacheDirectoryName": "b7b8",
-            "hash": "5ce13cd437414575e58479ceec552c1a",
+            "hash": "c27e3cc93a6f55640988ade98e57ece9",
             "category": "OnDemand",
-            "crc": 947355385,
-            "fileSize": 2327,
+            "crc": 914835106,
+            "fileSize": 2467,
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/live/stage_settings/0004"
@@ -26693,7 +27155,7 @@
             "cacheDirectoryName": "2d98",
             "hash": "06e87bf4b7fb11ca856f4dbf9771a2ae",
             "category": "OnDemand",
-            "crc": 2129790446,
+            "crc": 2859798634,
             "fileSize": 231603,
             "dependencies": [],
             "paths": [
@@ -27155,6 +27617,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_bondscp_018_020"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltydeco02_pv": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltydeco02_pv",
+            "cacheFileName": "694b294ad0b3be4b20b4d22551901b8d",
+            "cacheDirectoryName": "2337",
+            "hash": "9343f70fa2c643276b7c93fbedcb2494",
+            "category": "OnDemand",
+            "crc": 3365194759,
+            "fileSize": 8304,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltydeco02_pv"
             ],
             "isBuiltin": false
         },
@@ -29113,7 +29589,7 @@
             "cacheDirectoryName": "9e13",
             "hash": "925e8a36a52f17df1550c5bca2eb82de",
             "category": "OnDemand",
-            "crc": 550804497,
+            "crc": 2145302932,
             "fileSize": 268911,
             "dependencies": [],
             "paths": [
@@ -32046,6 +32522,20 @@
             ],
             "isBuiltin": false
         },
+        "tutorial/slide/auto_live": {
+            "bundleName": "tutorial/slide/auto_live",
+            "cacheFileName": "e80925148f542281a38bb722dcd881f6",
+            "cacheDirectoryName": "871f",
+            "hash": "7600ce23d663d013bb24c6ab97cb22d5",
+            "category": "StartApp",
+            "crc": 2287075645,
+            "fileSize": 210239,
+            "dependencies": [],
+            "paths": [
+                "StartApp/tutorial/slide/auto_live"
+            ],
+            "isBuiltin": false
+        },
         "sound/actionset/voice/areatalk03_275": {
             "bundleName": "sound/actionset/voice/areatalk03_275",
             "cacheFileName": "cb1f985978a27ac5c06ab1bb15ff8344",
@@ -33490,6 +33980,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/mc/scenario/mc_2020halloween_1": {
+            "bundleName": "virtual_live/mc/scenario/mc_2020halloween_1",
+            "cacheFileName": "bac5aeb4cf6a9c65f1e5edadc48e9fe0",
+            "cacheDirectoryName": "c82d",
+            "hash": "a8366348e26995046b84af2af85132e9",
+            "category": "OnDemand",
+            "crc": 1971519654,
+            "fileSize": 6868,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/scenario/mc_2020halloween_1"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_002_006_first_1": {
             "bundleName": "live/voice/cutin/system_bondscp_002_006_first_1",
             "cacheFileName": "138b182f1d97bc14946fb0e40994b806",
@@ -33546,6 +34050,34 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/mc/scenario/mc_2020halloween_6": {
+            "bundleName": "virtual_live/mc/scenario/mc_2020halloween_6",
+            "cacheFileName": "3eb477c9dc825bc0f38ec462ff146218",
+            "cacheDirectoryName": "c82d",
+            "hash": "a40b579ad8da592684206f6bedb61883",
+            "category": "OnDemand",
+            "crc": 3202404058,
+            "fileSize": 7114,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/scenario/mc_2020halloween_6"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/scenario/mc_2020halloween_5": {
+            "bundleName": "virtual_live/mc/scenario/mc_2020halloween_5",
+            "cacheFileName": "79eac7bc800897fc6245bad95f0463d7",
+            "cacheDirectoryName": "c82d",
+            "hash": "9e512daf521ccee9c6697410a8748f01",
+            "category": "OnDemand",
+            "crc": 2459550932,
+            "fileSize": 5715,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/scenario/mc_2020halloween_5"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_013_014_first_1": {
             "bundleName": "live/voice/cutin/system_bondscp_013_014_first_1",
             "cacheFileName": "f6869d1b37caeed70127521adc00ccfd",
@@ -33557,6 +34089,48 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_bondscp_013_014_first_1"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/scenario/mc_2020halloween_4": {
+            "bundleName": "virtual_live/mc/scenario/mc_2020halloween_4",
+            "cacheFileName": "d88b5d0b6a0a7dda4f2074b32bfa3ee1",
+            "cacheDirectoryName": "c82d",
+            "hash": "e8647e2615ac4d0426dc296fd7f2c6fb",
+            "category": "OnDemand",
+            "crc": 1151501982,
+            "fileSize": 6542,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/scenario/mc_2020halloween_4"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/scenario/mc_2020halloween_3": {
+            "bundleName": "virtual_live/mc/scenario/mc_2020halloween_3",
+            "cacheFileName": "c14e3dc9ab8f7f9f14c9f805e6cff811",
+            "cacheDirectoryName": "c82d",
+            "hash": "7687dc15593ced368571481cd37606ce",
+            "category": "OnDemand",
+            "crc": 2755440054,
+            "fileSize": 7502,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/scenario/mc_2020halloween_3"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/mc/scenario/mc_2020halloween_2": {
+            "bundleName": "virtual_live/mc/scenario/mc_2020halloween_2",
+            "cacheFileName": "88b3c5eecb94c0cbb49e5375b3d68566",
+            "cacheDirectoryName": "c82d",
+            "hash": "078f591a5caa32e13e87cd271906f6d0",
+            "category": "OnDemand",
+            "crc": 4105439189,
+            "fileSize": 6743,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/mc/scenario/mc_2020halloween_2"
             ],
             "isBuiltin": false
         },
@@ -34756,10 +35330,10 @@
             "bundleName": "music/long/0064_01",
             "cacheFileName": "8e778e724a3a315a404f64fe04eaba67",
             "cacheDirectoryName": "4901",
-            "hash": "30c74eff792bbe3c0092a67224b4ddab",
+            "hash": "d45d70c6afa00c0770f6826a19c9247c",
             "category": "OnDemand",
-            "crc": 635879689,
-            "fileSize": 1926325,
+            "crc": 4032158956,
+            "fileSize": 1926481,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0064_01"
@@ -34854,6 +35428,20 @@
                 "OnDemand/live_pv/model/character/head_optional/0020/a03/fbx",
                 "OnDemand/live_pv/model/character/head_optional/0020/a03/fbx/Materials",
                 "OnDemand/live_pv/model/character/head_optional/0020/a03/sourceimages"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltymonitor02_on": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltymonitor02_on",
+            "cacheFileName": "f48de669db3818a9dc303fe39a397183",
+            "cacheDirectoryName": "2337",
+            "hash": "59caf7c0d52070756ce4fa5998ffab57",
+            "category": "OnDemand",
+            "crc": 970817953,
+            "fileSize": 6558,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltymonitor02_on"
             ],
             "isBuiltin": false
         },
@@ -36576,7 +37164,7 @@
             "cacheFileName": "d5b23a8c70523444811b5f4c803626a0",
             "cacheDirectoryName": "fd93",
             "hash": "86e144f4887776e0ab8aa7a396b12b12",
-            "category": "StartApp",
+            "category": "OnDemand",
             "crc": 1573081562,
             "fileSize": 141105,
             "dependencies": [],
@@ -36883,10 +37471,10 @@
             "bundleName": "music/long/0061_01",
             "cacheFileName": "b1b742833b5e15caae370dd256c8540c",
             "cacheDirectoryName": "4901",
-            "hash": "b7d2f0b1809bc144093b61e4879eb260",
+            "hash": "ab5bf2b84eb8637ed90249973bae736a",
             "category": "OnDemand",
-            "crc": 3632204425,
-            "fileSize": 2004572,
+            "crc": 2446627694,
+            "fileSize": 2004678,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0061_01"
@@ -37069,6 +37657,20 @@
                 "OnDemand/live_pv/model/character/face/28/0028a/fbx",
                 "OnDemand/live_pv/model/character/face/28/0028a/fbx/Materials",
                 "OnDemand/live_pv/model/character/face/28/0028a/sourceimages"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltydeco01_pv_off": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltydeco01_pv_off",
+            "cacheFileName": "8b586a45e6b9b27e476b19e68303f190",
+            "cacheDirectoryName": "2337",
+            "hash": "1537fcdb5d49f32cdd5873277b11727b",
+            "category": "OnDemand",
+            "crc": 203994281,
+            "fileSize": 5997,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltydeco01_pv_off"
             ],
             "isBuiltin": false
         },
@@ -38208,7 +38810,7 @@
             "cacheDirectoryName": "829e",
             "hash": "2503caf7586ec2e57a03ee913e47575c",
             "category": "OnDemand",
-            "crc": 1879229858,
+            "crc": 1997202884,
             "fileSize": 245700,
             "dependencies": [],
             "paths": [
@@ -38965,6 +39567,34 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_l/01": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_l/01",
+            "cacheFileName": "cea48b0e87821e81ef53431132196f2e",
+            "cacheDirectoryName": "c35d",
+            "hash": "0d97a9b25240c3973504a6bd8c12f611",
+            "category": "OnDemand",
+            "crc": 915315371,
+            "fileSize": 135633,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_l/01"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_l/03": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_l/03",
+            "cacheFileName": "3880cc6953cf19df2e8b833864d2e00e",
+            "cacheDirectoryName": "c35d",
+            "hash": "429098a2faf73c3611ebfd0de9ebf39b",
+            "category": "OnDemand",
+            "crc": 2500725753,
+            "fileSize": 132484,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_l/03"
+            ],
+            "isBuiltin": false
+        },
         "scenario/background/bg_c000303": {
             "bundleName": "scenario/background/bg_c000303",
             "cacheFileName": "5cedeca71bf12e3401f78d317334864a",
@@ -38990,6 +39620,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/sound/card_scenario/voice/001002_ichika01"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_l/02": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_l/02",
+            "cacheFileName": "ecb8495d6d5d49b8e108bd40351259b0",
+            "cacheDirectoryName": "c35d",
+            "hash": "0eb2001daea9b9f2db354434ff7de122",
+            "category": "OnDemand",
+            "crc": 501696162,
+            "fileSize": 130268,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_l/02"
             ],
             "isBuiltin": false
         },
@@ -39220,6 +39864,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/performer/motion/w_pure_mojimoji_01"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/item/event_halloween_2020": {
+            "bundleName": "virtual_live/item/event_halloween_2020",
+            "cacheFileName": "a29ab60e333876106dbbdd3aacbc4844",
+            "cacheDirectoryName": "207c",
+            "hash": "876d9eeaaf9e69ad208a42509a9ace7d",
+            "category": "StartApp",
+            "crc": 3035534513,
+            "fileSize": 767179,
+            "dependencies": [],
+            "paths": [
+                "StartApp/effect_asset/virtual_live/item/event_halloween_2020"
             ],
             "isBuiltin": false
         },
@@ -39898,10 +40556,10 @@
             "bundleName": "virtual_live/sound/se/se_vl",
             "cacheFileName": "fca088c80d6c66d3a9304b1001c64d82",
             "cacheDirectoryName": "e6a6",
-            "hash": "b9211b64e3959a6350c1f4a2211dfb35",
+            "hash": "d2685cf3a041062b6d57dfd0e296cbc7",
             "category": "StartApp",
-            "crc": 418903530,
-            "fileSize": 5885729,
+            "crc": 3512253084,
+            "fileSize": 5896419,
             "dependencies": [],
             "paths": [
                 "StartApp/virtual_live/sound/se/se_vl"
@@ -43150,6 +43808,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/message/form": {
+            "bundleName": "virtual_live/message/form",
+            "cacheFileName": "48633920b9a91f1b45ec8be05c8153b1",
+            "cacheDirectoryName": "35dd",
+            "hash": "7f11638175f4cfbf251043f549dd8c42",
+            "category": "StartApp",
+            "crc": 110399750,
+            "fileSize": 7522,
+            "dependencies": [],
+            "paths": [
+                "StartApp/virtual_live/message/form"
+            ],
+            "isBuiltin": false
+        },
         "effect_asset/gacha_obtain_prize": {
             "bundleName": "effect_asset/gacha_obtain_prize",
             "cacheFileName": "c1a341a104097f263b5c54289ccf74d9",
@@ -44114,6 +44786,24 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/sound/scenario/voice/street_01_01"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/effect/stage_melty_meteor": {
+            "bundleName": "virtual_live/live/effect/stage_melty_meteor",
+            "cacheFileName": "2b8368a749cdda25d4f579c51d179319",
+            "cacheDirectoryName": "bbb8",
+            "hash": "191857e0baa5e91d1dc1c3c64d3d7a94",
+            "category": "OnDemand",
+            "crc": 5224371,
+            "fileSize": 58859,
+            "dependencies": [
+                "shader/particles"
+            ],
+            "paths": [
+                "OnDemand/virtual_live/live/effect/stage_melty_meteor",
+                "OnDemand/virtual_live/live/effect/stage_melty_meteor/m_tex",
+                "OnDemand/virtual_live/live/effect/stage_melty_meteor/texture"
             ],
             "isBuiltin": false
         },
@@ -45430,6 +46120,24 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/avatar/decoration/fullset_0009": {
+            "bundleName": "virtual_live/avatar/decoration/fullset_0009",
+            "cacheFileName": "7ee4e4cb651aca4a991d88387d538508",
+            "cacheDirectoryName": "dcf5",
+            "hash": "52e7e7d03442af8790dac56ac52d263d",
+            "category": "StartApp",
+            "crc": 658380183,
+            "fileSize": 76394,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "StartApp/virtual_live/avatar/decoration/fullset_0009",
+                "StartApp/virtual_live/avatar/decoration/fullset_0009/fbx",
+                "StartApp/virtual_live/avatar/decoration/fullset_0009/sourceimages"
+            ],
+            "isBuiltin": false
+        },
         "music/short/0067_01": {
             "bundleName": "music/short/0067_01",
             "cacheFileName": "6f6e2f629323d5bf4fe5fcc7985c3c77",
@@ -46204,6 +46912,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/stage_animation/idol_meltymonitor02_off": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltymonitor02_off",
+            "cacheFileName": "d40c2563463b936bd25f2c6dec107163",
+            "cacheDirectoryName": "2337",
+            "hash": "30159a1259de0e9a1e5bc40f887f1f85",
+            "category": "OnDemand",
+            "crc": 2381294942,
+            "fileSize": 6602,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltymonitor02_off"
+            ],
+            "isBuiltin": false
+        },
         "areaitem/areaitem0809": {
             "bundleName": "areaitem/areaitem0809",
             "cacheFileName": "92939f0c919d23f4c3234ba5b372af9f",
@@ -46502,10 +47224,10 @@
             "bundleName": "loginbonus/event/event",
             "cacheFileName": "bdfa19b55f39343ba3d639ed1eb57893",
             "cacheDirectoryName": "9521",
-            "hash": "d936aefe9ae7552b85be33248b36790a",
+            "hash": "d7b6703973236cd5fd2e513ca525a41d",
             "category": "OnDemand",
-            "crc": 2529454795,
-            "fileSize": 1332688,
+            "crc": 956073188,
+            "fileSize": 1331668,
             "dependencies": [],
             "paths": [
                 "OnDemand/loginbonus/event/event"
@@ -46579,6 +47301,25 @@
             "dependencies": [],
             "paths": [
                 "StartApp/comic/one_frame"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/body/99/0051/boys": {
+            "bundleName": "live_pv/model/character/body/99/0051/boys",
+            "cacheFileName": "2e08c3b874e1821eed2dfa5183b6c898",
+            "cacheDirectoryName": "cb8b",
+            "hash": "8b19ce14c69b8ed8819f24c33055b7e6",
+            "category": "OnDemand",
+            "crc": 1975708533,
+            "fileSize": 322990,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/body/99/0051/boys",
+                "OnDemand/live_pv/model/character/body/99/0051/boys/fbx",
+                "OnDemand/live_pv/model/character/body/99/0051/boys/fbx/Materials",
+                "OnDemand/live_pv/model/character/body/99/0051/boys/sourceimages"
             ],
             "isBuiltin": false
         },
@@ -47429,6 +48170,25 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/head_optional/0052/a02": {
+            "bundleName": "live_pv/model/character/head_optional/0052/a02",
+            "cacheFileName": "1bbc7b07fb3aa9ad0047d11ac93e1f36",
+            "cacheDirectoryName": "5df9",
+            "hash": "ee4521dab7089d4025b3c85ad59cba63",
+            "category": "StartApp",
+            "crc": 1669138276,
+            "fileSize": 125035,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/head_optional/0052/a02",
+                "OnDemand/live_pv/model/character/head_optional/0052/a02/fbx",
+                "OnDemand/live_pv/model/character/head_optional/0052/a02/fbx/Materials",
+                "OnDemand/live_pv/model/character/head_optional/0052/a02/sourceimages"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_006_007": {
             "bundleName": "live/voice/cutin/system_bondscp_006_007",
             "cacheFileName": "9d9cd09c6f81c9c41e037214f04012fa",
@@ -47641,6 +48401,25 @@
             "dependencies": [],
             "paths": [
                 "StartApp/home/banner/banner_200_anniversary"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/body/99/0052/ladies_ss": {
+            "bundleName": "live_pv/model/character/body/99/0052/ladies_ss",
+            "cacheFileName": "28ef05c0deafaa7a1494652bc0622b61",
+            "cacheDirectoryName": "2565",
+            "hash": "4e411c2735467bd25b71b02d136a8d98",
+            "category": "OnDemand",
+            "crc": 78922668,
+            "fileSize": 351992,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_ss",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_ss/fbx",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_ss/fbx/Materials",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_ss/sourceimages"
             ],
             "isBuiltin": false
         },
@@ -49424,7 +50203,7 @@
             "cacheDirectoryName": "e8b3",
             "hash": "bc85ad25dedefdfc8c7c40ae309854e8",
             "category": "OnDemand",
-            "crc": 3157571529,
+            "crc": 411571668,
             "fileSize": 273868,
             "dependencies": [],
             "paths": [
@@ -50567,10 +51346,10 @@
             "bundleName": "thumbnail/avatar_coordinate",
             "cacheFileName": "19e6d1c230f7ca6038040509f74e11f8",
             "cacheDirectoryName": "951d",
-            "hash": "1103efba9699d095e3c782de0d83d75e",
+            "hash": "7d200439e0e865b067a752d193f169b0",
             "category": "StartApp",
-            "crc": 699909274,
-            "fileSize": 36469,
+            "crc": 3228984499,
+            "fileSize": 40146,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/avatar_coordinate"
@@ -50728,6 +51507,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/character/member_cutout/res017_no001"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltydeco03_pv_off": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltydeco03_pv_off",
+            "cacheFileName": "dea0d99f86410140b66306b1c3a844d0",
+            "cacheDirectoryName": "2337",
+            "hash": "7f1ab0400f0452f976ab78b25897f143",
+            "category": "OnDemand",
+            "crc": 296811090,
+            "fileSize": 6609,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltydeco03_pv_off"
             ],
             "isBuiltin": false
         },
@@ -52358,6 +53151,25 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/body/99/0051/mens": {
+            "bundleName": "live_pv/model/character/body/99/0051/mens",
+            "cacheFileName": "c1d093d182a526cdb954eba1af6f71c1",
+            "cacheDirectoryName": "cb8b",
+            "hash": "f452e0a0c6e2d91eb840e99cb50a98f7",
+            "category": "OnDemand",
+            "crc": 682011075,
+            "fileSize": 333449,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/body/99/0051/mens",
+                "OnDemand/live_pv/model/character/body/99/0051/mens/fbx",
+                "OnDemand/live_pv/model/character/body/99/0051/mens/fbx/Materials",
+                "OnDemand/live_pv/model/character/body/99/0051/mens/sourceimages"
+            ],
+            "isBuiltin": false
+        },
         "sound/actionset/voice/areatalk02_237": {
             "bundleName": "sound/actionset/voice/areatalk02_237",
             "cacheFileName": "cc1d040ee325deb72bb618c540c5db8c",
@@ -52971,10 +53783,10 @@
             "bundleName": "music/long/0066_02",
             "cacheFileName": "9d4522f5ceb7d4e30cd194e3efcf6fd1",
             "cacheDirectoryName": "4901",
-            "hash": "0770995b5fa0df4ccc7e8c845fe74cc8",
+            "hash": "6d197d0e842bf9b891167f46b31bf7d5",
             "category": "OnDemand",
-            "crc": 713649865,
-            "fileSize": 2268324,
+            "crc": 3945983648,
+            "fileSize": 2268408,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0066_02"
@@ -53266,10 +54078,10 @@
             "bundleName": "music/long/0066_01",
             "cacheFileName": "8c16ea795d40545f1a04886c2ef62c39",
             "cacheDirectoryName": "4901",
-            "hash": "db915aa4c0c8031265c2f10af97302c7",
+            "hash": "48fbff7f33d2df1f70bd37f725c3ce30",
             "category": "OnDemand",
-            "crc": 1416461880,
-            "fileSize": 2261112,
+            "crc": 2386708733,
+            "fileSize": 2261192,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0066_01"
@@ -53335,6 +54147,20 @@
                 "OnDemand/live_pv/model/character/head_optional/0017/a02/fbx",
                 "OnDemand/live_pv/model/character/head_optional/0017/a02/fbx/Materials",
                 "OnDemand/live_pv/model/character/head_optional/0017/a02/sourceimages"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltyillumination01_pv": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltyillumination01_pv",
+            "cacheFileName": "022e785348972da546741d8c33424e89",
+            "cacheDirectoryName": "2337",
+            "hash": "be9dc6caeecd4a38c75c5a28f00bb82a",
+            "category": "OnDemand",
+            "crc": 3107008044,
+            "fileSize": 6603,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltyillumination01_pv"
             ],
             "isBuiltin": false
         },
@@ -54192,6 +55018,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/select/banner/vlentrance_00012": {
+            "bundleName": "virtual_live/select/banner/vlentrance_00012",
+            "cacheFileName": "e8bc13b59c37921494803f84a5011fb3",
+            "cacheDirectoryName": "3282",
+            "hash": "08eb18935436b2f631452e59e5c3652d",
+            "category": "OnDemand",
+            "crc": 681498308,
+            "fileSize": 61712,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/select/banner/vlentrance_00012"
+            ],
+            "isBuiltin": false
+        },
         "virtual_live/select/banner/vlentrance_00011": {
             "bundleName": "virtual_live/select/banner/vlentrance_00011",
             "cacheFileName": "4b68ef76668c5903bf749cd2af77ff68",
@@ -54484,6 +55324,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/stamp/stamp0069"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltyillumination01_on": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltyillumination01_on",
+            "cacheFileName": "8b17b54ea70eacfabf13b0e1bf0ce540",
+            "cacheDirectoryName": "2337",
+            "hash": "9bc0e5949afa6eb3361145803d56cf17",
+            "category": "OnDemand",
+            "crc": 3696208628,
+            "fileSize": 6207,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltyillumination01_on"
             ],
             "isBuiltin": false
         },
@@ -55127,10 +55981,10 @@
             "bundleName": "music/long/an_0064_02",
             "cacheFileName": "e228def762ae4cebfba85665451fd9a0",
             "cacheDirectoryName": "4901",
-            "hash": "b2147179a70402424680a22db60ee077",
+            "hash": "1c121125344cb9b7ba9cbaea261c10d1",
             "category": "OnDemand",
-            "crc": 4293410905,
-            "fileSize": 1930599,
+            "crc": 478116021,
+            "fileSize": 1930682,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0064_02"
@@ -55141,10 +55995,10 @@
             "bundleName": "music/long/an_0064_01",
             "cacheFileName": "cf7897195d43ed13b022c3326136656d",
             "cacheDirectoryName": "4901",
-            "hash": "2986abcc02312756b9785cd2981abc44",
+            "hash": "c1d0a8525025cb4665afd745f57b2c17",
             "category": "OnDemand",
-            "crc": 701230279,
-            "fileSize": 1930524,
+            "crc": 253446586,
+            "fileSize": 1930637,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0064_01"
@@ -56860,10 +57714,10 @@
             "bundleName": "shader/live",
             "cacheFileName": "73641cbe4002c54e603bbc9084d771fa",
             "cacheDirectoryName": "842e",
-            "hash": "2c6116dca54bd2866ece3592a325b465",
+            "hash": "9c0c028e73ad486d5dbaa226cadaef78",
             "category": "Tutorial",
-            "crc": 3464220442,
-            "fileSize": 103970,
+            "crc": 1700263943,
+            "fileSize": 107175,
             "dependencies": [],
             "paths": [
                 "Assets/Sekai/BuiltInAssets/AssetBundle/Resources/Tutorial/shader/live",
@@ -57330,6 +58184,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/areaitem/areaitem0706"
+            ],
+            "isBuiltin": false
+        },
+        "crystal_shop/thumbnail/colorful_pass": {
+            "bundleName": "crystal_shop/thumbnail/colorful_pass",
+            "cacheFileName": "aa8b501ec379eefe2886660a34544ec3",
+            "cacheDirectoryName": "5bcc",
+            "hash": "b3726fcdde1c386d5a526358d8b50e0d",
+            "category": "StartApp",
+            "crc": 94558152,
+            "fileSize": 102177,
+            "dependencies": [],
+            "paths": [
+                "StartApp/crystal_shop/thumbnail/colorful_pass"
             ],
             "isBuiltin": false
         },
@@ -59363,13 +60231,27 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/stage_animation/idol_meltydeco01_pv": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltydeco01_pv",
+            "cacheFileName": "b55d705d3edc05ee6409cf6bb8e040b8",
+            "cacheDirectoryName": "2337",
+            "hash": "0c166377885e9b51cb5d26d24ed1230c",
+            "category": "OnDemand",
+            "crc": 859712619,
+            "fileSize": 6406,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltydeco01_pv"
+            ],
+            "isBuiltin": false
+        },
         "live_pv/timeline/0071/camera": {
             "bundleName": "live_pv/timeline/0071/camera",
             "cacheFileName": "b1e752ef96742e00e626b6e42e788a42",
             "cacheDirectoryName": "d835",
             "hash": "adfe2fa2812d82cf4d8ac07a960a2973",
             "category": "OnDemand",
-            "crc": 3932602212,
+            "crc": 3246968566,
             "fileSize": 301700,
             "dependencies": [],
             "paths": [
@@ -59690,8 +60572,8 @@
             "cacheDirectoryName": "f8e1",
             "hash": "5116c94338a2c8f05d5a8508cc3281c1",
             "category": "StartApp",
-            "crc": 49089104,
-            "fileSize": 15085401,
+            "crc": 3115753614,
+            "fileSize": 15085412,
             "dependencies": [
                 "effect_asset/gacha_obtain_prize"
             ],
@@ -60484,6 +61366,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/home/banner/banner_cp_double_unitexp"
+            ],
+            "isBuiltin": false
+        },
+        "home/banner/banner_virtuallive12": {
+            "bundleName": "home/banner/banner_virtuallive12",
+            "cacheFileName": "590f8bb08831783e4a3acfd6c600a923",
+            "cacheDirectoryName": "0095",
+            "hash": "bbeb8d07fc380ebe03a405016b1a0131",
+            "category": "StartApp",
+            "crc": 1987450018,
+            "fileSize": 39299,
+            "dependencies": [],
+            "paths": [
+                "StartApp/home/banner/banner_virtuallive12"
             ],
             "isBuiltin": false
         },
@@ -61463,6 +62359,34 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_s/01": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_s/01",
+            "cacheFileName": "fba8abed9ddc6377bc37a10d414cd0e4",
+            "cacheDirectoryName": "814e",
+            "hash": "cd8ce4ab37b75ea131575171bafcf531",
+            "category": "OnDemand",
+            "crc": 4218036866,
+            "fileSize": 135483,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_s/01"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_s/02": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_s/02",
+            "cacheFileName": "e11930a631bb9140a16d488bb7551794",
+            "cacheDirectoryName": "814e",
+            "hash": "3ea329782e8d3dcffe1e7dd6444a3b9a",
+            "category": "OnDemand",
+            "crc": 406269745,
+            "fileSize": 130309,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_s/02"
+            ],
+            "isBuiltin": false
+        },
         "character/member/res005_no002": {
             "bundleName": "character/member/res005_no002",
             "cacheFileName": "ad9b33c9b3e1a3522ee7d335af21f878",
@@ -61770,6 +62694,20 @@
             ],
             "isBuiltin": false
         },
+        "crystal_shop/thumbnail/live_mission_pass_banner": {
+            "bundleName": "crystal_shop/thumbnail/live_mission_pass_banner",
+            "cacheFileName": "6137236fd26e875be6f1e476f6b7d06e",
+            "cacheDirectoryName": "5bcc",
+            "hash": "c9cf3e7cc500fe37d80a14c0d87f9daf",
+            "category": "StartApp",
+            "crc": 1509350115,
+            "fileSize": 34863,
+            "dependencies": [],
+            "paths": [
+                "StartApp/crystal_shop/thumbnail/live_mission_pass_banner"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_014_013_first_1": {
             "bundleName": "live/voice/cutin/system_bondscp_014_013_first_1",
             "cacheFileName": "59dff14546eeb032af7abd7098761522",
@@ -61914,10 +62852,10 @@
             "bundleName": "live_pv/sp/gacha/main",
             "cacheFileName": "f16efe5885879a67a543bdf6cf412925",
             "cacheDirectoryName": "714f",
-            "hash": "ddf49ddf769a3b9b3c8ed4d3866418fa",
+            "hash": "d04510cb6a30cc0f3899b46c96799013",
             "category": "StartApp",
-            "crc": 2222741413,
-            "fileSize": 237867,
+            "crc": 2847065292,
+            "fileSize": 237898,
             "dependencies": [
                 "live_pv/sp/gacha/effect",
                 "live_pv/sp/gacha/model/character",
@@ -62075,10 +63013,10 @@
             "bundleName": "multi_room/room3",
             "cacheFileName": "98823994a21befcd62b188acedc3ba52",
             "cacheDirectoryName": "9040",
-            "hash": "ab500cb3280cc67b40f86d6c61a38629",
+            "hash": "0becaadb47693095be74ee7d7b385852",
             "category": "StartApp",
-            "crc": 3484860391,
-            "fileSize": 14476,
+            "crc": 4269338276,
+            "fileSize": 14232,
             "dependencies": [],
             "paths": [
                 "StartApp/multi_room/room3"
@@ -62103,10 +63041,10 @@
             "bundleName": "multi_room/room4",
             "cacheFileName": "f2f9bc185fdde7a4d5f114ffaf61d61a",
             "cacheDirectoryName": "9040",
-            "hash": "dd3fea40f3b06b0d1fbcea7007bac37b",
+            "hash": "6661bcba3005c686c3d7ab65a6b08c53",
             "category": "StartApp",
-            "crc": 2015057286,
-            "fileSize": 14997,
+            "crc": 991778213,
+            "fileSize": 14454,
             "dependencies": [],
             "paths": [
                 "StartApp/multi_room/room4"
@@ -62117,10 +63055,10 @@
             "bundleName": "multi_room/room1",
             "cacheFileName": "f96f68b39b7b92901082e001269d0eed",
             "cacheDirectoryName": "9040",
-            "hash": "16b18a2b903e323af3d81edc9dcfab0d",
+            "hash": "3e39f683850fca26b8c144f0d2af9d8f",
             "category": "StartApp",
-            "crc": 1399506068,
-            "fileSize": 14476,
+            "crc": 1654953431,
+            "fileSize": 14232,
             "dependencies": [],
             "paths": [
                 "StartApp/multi_room/room1"
@@ -62131,10 +63069,10 @@
             "bundleName": "multi_room/room2",
             "cacheFileName": "bb584078a2505d00c0ccf1f2409889e8",
             "cacheDirectoryName": "9040",
-            "hash": "44bb4a5638856236d323013342324993",
+            "hash": "bc74fadaf9e9629e146126a8a8af3011",
             "category": "StartApp",
-            "crc": 4244340756,
-            "fileSize": 14998,
+            "crc": 3221061687,
+            "fileSize": 14455,
             "dependencies": [],
             "paths": [
                 "StartApp/multi_room/room2"
@@ -62390,7 +63328,7 @@
             "cacheDirectoryName": "58df",
             "hash": "3c75a93f5f260c2414c37d8d35e2db20",
             "category": "OnDemand",
-            "crc": 3234499430,
+            "crc": 997331288,
             "fileSize": 179979,
             "dependencies": [],
             "paths": [
@@ -62530,6 +63468,20 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_s/03": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_s/03",
+            "cacheFileName": "b88117393d05322c1c5dd3a75022072a",
+            "cacheDirectoryName": "814e",
+            "hash": "cb3bf255292431a5a2d920f44e76ea15",
+            "category": "OnDemand",
+            "crc": 1175690795,
+            "fileSize": 132359,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_s/03"
+            ],
+            "isBuiltin": false
+        },
         "stamp/stamp0119": {
             "bundleName": "stamp/stamp0119",
             "cacheFileName": "b2cccd25394cf82b59ddc7008e8f6706",
@@ -62541,6 +63493,34 @@
             "dependencies": [],
             "paths": [
                 "StartApp/stamp/stamp0119"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/head_optional/0051/a05/02": {
+            "bundleName": "live_pv/model/character/color_variation/head_optional/0051/a05/02",
+            "cacheFileName": "8fd5836f6497f6ca83ab79f0ec50d0b1",
+            "cacheDirectoryName": "9379",
+            "hash": "11f32f67124593aba6dd196fa0321f02",
+            "category": "OnDemand",
+            "crc": 26823230,
+            "fileSize": 35003,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/head_optional/0051/a05/02"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/head_optional/0051/a05/03": {
+            "bundleName": "live_pv/model/character/color_variation/head_optional/0051/a05/03",
+            "cacheFileName": "0ec0d9b3f4fc9eebae77645b77fb55cd",
+            "cacheDirectoryName": "9379",
+            "hash": "56f46d5de2db4398346471abb01aedc6",
+            "category": "OnDemand",
+            "crc": 1735380209,
+            "fileSize": 34570,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/head_optional/0051/a05/03"
             ],
             "isBuiltin": false
         },
@@ -62597,6 +63577,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/virtual_live/mc/voice/mc_release_01_4"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/head_optional/0051/a05/01": {
+            "bundleName": "live_pv/model/character/color_variation/head_optional/0051/a05/01",
+            "cacheFileName": "1e603dbaeae50b544e071d79e69a8591",
+            "cacheDirectoryName": "9379",
+            "hash": "642fbfde671347da58a3a8f1cf36e009",
+            "category": "OnDemand",
+            "crc": 2333829019,
+            "fileSize": 31677,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/head_optional/0051/a05/01"
             ],
             "isBuiltin": false
         },
@@ -64189,7 +65183,7 @@
             "cacheDirectoryName": "b3fb",
             "hash": "b4d6793e260dd2dfa745720faf1ca895",
             "category": "OnDemand",
-            "crc": 923849912,
+            "crc": 660064486,
             "fileSize": 271788,
             "dependencies": [],
             "paths": [
@@ -64453,10 +65447,10 @@
             "bundleName": "music/long/an_0006_02",
             "cacheFileName": "5325b6597ecda0b80d39ebc712ab2fed",
             "cacheDirectoryName": "4901",
-            "hash": "cbb9ab25a08e0ff2da0d61660018adf0",
+            "hash": "ee4a35c3bf79ad625d60273fec5d9471",
             "category": "OnDemand",
-            "crc": 229229954,
-            "fileSize": 1378423,
+            "crc": 1560312610,
+            "fileSize": 1378573,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0006_02"
@@ -64481,10 +65475,10 @@
             "bundleName": "music/long/an_0006_01",
             "cacheFileName": "3aaec237bce71b4972924cf0de5e1d89",
             "cacheDirectoryName": "4901",
-            "hash": "956e99ee4eca9deefd64030996cd77b5",
+            "hash": "14991456c49f09bcc090295f2ecf75cc",
             "category": "OnDemand",
-            "crc": 439820841,
-            "fileSize": 1378435,
+            "crc": 493562351,
+            "fileSize": 1378623,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0006_01"
@@ -64679,7 +65673,7 @@
             "cacheDirectoryName": "2a5e",
             "hash": "8e9f2d9c44eb234a7960c033da0421fc",
             "category": "OnDemand",
-            "crc": 624173849,
+            "crc": 280744217,
             "fileSize": 243293,
             "dependencies": [],
             "paths": [
@@ -65416,6 +66410,20 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/stage_animation/idol_meltydeco02_pv_off": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltydeco02_pv_off",
+            "cacheFileName": "0a849b1736329090095392acb869a91e",
+            "cacheDirectoryName": "2337",
+            "hash": "da55bbe3e163a0acc5ec602709a21fe1",
+            "category": "OnDemand",
+            "crc": 1484715934,
+            "fileSize": 6738,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltydeco02_pv_off"
+            ],
+            "isBuiltin": false
+        },
         "stamp/stamp0175": {
             "bundleName": "stamp/stamp0175",
             "cacheFileName": "452d08b38175fe8c29511c3bac1fc2c0",
@@ -65884,10 +66892,10 @@
             "bundleName": "thumbnail/costume",
             "cacheFileName": "dae5a704cf854efb9e7825e635f28c86",
             "cacheDirectoryName": "951d",
-            "hash": "49739e5e21b47fc286cb2af9033396c2",
+            "hash": "b3ec0a9722731f8a703273fa7ae99efc",
             "category": "StartApp",
-            "crc": 1971737126,
-            "fileSize": 1405656,
+            "crc": 2320630951,
+            "fileSize": 1452213,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/costume"
@@ -66297,7 +67305,7 @@
             "cacheDirectoryName": "42e9",
             "hash": "1b5afad8d4d50f9ac4d27d05816aefc6",
             "category": "OnDemand",
-            "crc": 1417293031,
+            "crc": 3132183528,
             "fileSize": 242032,
             "dependencies": [],
             "paths": [
@@ -66959,10 +67967,10 @@
             "bundleName": "crystal_shop/thumbnail/value_set",
             "cacheFileName": "1fda5116bafc5805552eadcaa934b42e",
             "cacheDirectoryName": "5bcc",
-            "hash": "f3afae137836908f359fc662546b23cd",
+            "hash": "6e5557f91cf6c8d8631aac928eb2dbd4",
             "category": "StartApp",
-            "crc": 3929373567,
-            "fileSize": 378408,
+            "crc": 3978071518,
+            "fileSize": 401787,
             "dependencies": [],
             "paths": [
                 "StartApp/crystal_shop/thumbnail/value_set"
@@ -67211,6 +68219,20 @@
             "paths": [
                 "StartApp/live2d/model/20mizuki_normal",
                 "StartApp/live2d/model/20mizuki_normal/20mizuki_normal_3.0_f_t01.2048"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/stage_animation/idol_meltymonitor01_pv": {
+            "bundleName": "virtual_live/live/stage_animation/idol_meltymonitor01_pv",
+            "cacheFileName": "5bc9848b73ca049f585a91e3bd27236a",
+            "cacheDirectoryName": "2337",
+            "hash": "f83702872dad3614a73c254780905136",
+            "category": "OnDemand",
+            "crc": 82992207,
+            "fileSize": 6500,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/virtual_live/live/stage_animation/idol_meltymonitor01_pv"
             ],
             "isBuiltin": false
         },
@@ -67628,10 +68650,10 @@
             "bundleName": "thumbnail/virtual_live_item",
             "cacheFileName": "4def7e8720fdd0b15fd751aa8f61d024",
             "cacheDirectoryName": "951d",
-            "hash": "f961bfdf78f96ab31200555df8830ee2",
+            "hash": "04ce92f0a67e38676407086916253d61",
             "category": "StartApp",
-            "crc": 1287277823,
-            "fileSize": 145429,
+            "crc": 2931551345,
+            "fileSize": 148999,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/virtual_live_item"
@@ -68752,6 +69774,24 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/sound/scenario/voice/wonder_01_09"
+            ],
+            "isBuiltin": false
+        },
+        "virtual_live/live/effect/stage_melty_circle_pink": {
+            "bundleName": "virtual_live/live/effect/stage_melty_circle_pink",
+            "cacheFileName": "8d837e40f7aafbbe48dc823c73b6bf44",
+            "cacheDirectoryName": "bbb8",
+            "hash": "b749e03883da397a59222278db6ee6af",
+            "category": "OnDemand",
+            "crc": 2121594224,
+            "fileSize": 62399,
+            "dependencies": [
+                "shader/particles"
+            ],
+            "paths": [
+                "OnDemand/virtual_live/live/effect/stage_melty_circle_pink",
+                "OnDemand/virtual_live/live/effect/stage_melty_circle_pink/m_tex",
+                "OnDemand/virtual_live/live/effect/stage_melty_circle_pink/texture"
             ],
             "isBuiltin": false
         },
@@ -70098,10 +71138,10 @@
             "bundleName": "music/long/0060_01",
             "cacheFileName": "4bc727c6c8498db1cab50c9ab4169a42",
             "cacheDirectoryName": "4901",
-            "hash": "e386b3ccf57b219d9b0f67b257d88d14",
+            "hash": "a6e6ae2c1c7569dcdb10db70c83399c8",
             "category": "OnDemand",
-            "crc": 710646635,
-            "fileSize": 1479687,
+            "crc": 41160858,
+            "fileSize": 1479781,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0060_01"
@@ -70140,10 +71180,10 @@
             "bundleName": "loginbonus/event/release_anniversary",
             "cacheFileName": "3ff0f42a33249cd3d8bccf5cba0fc986",
             "cacheDirectoryName": "9521",
-            "hash": "41c25a9e981b5125ab04cdf2f9e1bdcd",
+            "hash": "ffc754f0e3c5b787bf7d1bb60308f2d2",
             "category": "OnDemand",
-            "crc": 3880773589,
-            "fileSize": 1019070,
+            "crc": 643832282,
+            "fileSize": 1018080,
             "dependencies": [],
             "paths": [
                 "OnDemand/loginbonus/event/release_anniversary"
@@ -70616,6 +71656,20 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_commoncp_022_second_1"
+            ],
+            "isBuiltin": false
+        },
+        "tutorial/slide/virtual_live_message": {
+            "bundleName": "tutorial/slide/virtual_live_message",
+            "cacheFileName": "4a3961b525905c5f68fd57ebe39171b1",
+            "cacheDirectoryName": "871f",
+            "hash": "adfec46adaeb18abd7e72cbf90d871b6",
+            "category": "StartApp",
+            "crc": 826582243,
+            "fileSize": 210187,
+            "dependencies": [],
+            "paths": [
+                "StartApp/tutorial/slide/virtual_live_message"
             ],
             "isBuiltin": false
         },
@@ -71143,6 +72197,24 @@
             ],
             "isBuiltin": false
         },
+        "virtual_live/live/effect/stage_spot_light_melty_pink": {
+            "bundleName": "virtual_live/live/effect/stage_spot_light_melty_pink",
+            "cacheFileName": "86afe68f6d6cbef62b1e1996b7b83814",
+            "cacheDirectoryName": "bbb8",
+            "hash": "fb71540de0ba63eb05a58a12b3cc7f34",
+            "category": "OnDemand",
+            "crc": 1027616281,
+            "fileSize": 133663,
+            "dependencies": [
+                "shader/particles"
+            ],
+            "paths": [
+                "OnDemand/virtual_live/live/effect/stage_spot_light_melty_pink",
+                "OnDemand/virtual_live/live/effect/stage_spot_light_melty_pink/material",
+                "OnDemand/virtual_live/live/effect/stage_spot_light_melty_pink/texture"
+            ],
+            "isBuiltin": false
+        },
         "honor/honor_0125": {
             "bundleName": "honor/honor_0125",
             "cacheFileName": "f516c6a77341226d15d76845724700fc",
@@ -71273,10 +72345,10 @@
             "bundleName": "music/long/0047_01",
             "cacheFileName": "85b9c1a8df0841b039e698d260543631",
             "cacheDirectoryName": "4901",
-            "hash": "d31f6152e588926ed923fdc0a095a7c2",
+            "hash": "fd81fd269eb46cfa3a4b4db90c92f69a",
             "category": "OnDemand",
-            "crc": 2620870397,
-            "fileSize": 2677289,
+            "crc": 733955005,
+            "fileSize": 2677175,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/0047_01"
@@ -73714,10 +74786,10 @@
             "bundleName": "music/long/an_0022_01",
             "cacheFileName": "af5ac64009442252607db18a305aaf3f",
             "cacheDirectoryName": "4901",
-            "hash": "6438b7302ec8e28489b44918ac4328c1",
+            "hash": "49fea5c39c2a14a1b4986db79e9fe597",
             "category": "OnDemand",
-            "crc": 3489536833,
-            "fileSize": 1576538,
+            "crc": 1637734221,
+            "fileSize": 1576583,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0022_01"
@@ -73846,10 +74918,10 @@
             "bundleName": "music/long/an_0022_03",
             "cacheFileName": "9a3b84ebed4702c496fbc7961118e2a3",
             "cacheDirectoryName": "4901",
-            "hash": "7c9ce32e89f99b54c389a252ea1ba275",
+            "hash": "39d3cc08bf216bdd4ed9c88e7cea50d8",
             "category": "OnDemand",
-            "crc": 4028071274,
-            "fileSize": 1574653,
+            "crc": 4088268214,
+            "fileSize": 1574754,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0022_03"
@@ -73902,10 +74974,10 @@
             "bundleName": "music/long/an_0022_02",
             "cacheFileName": "d14aeeb2c4745d4ebedaa5d5ac1e5c1d",
             "cacheDirectoryName": "4901",
-            "hash": "6ee5d0e75c7d51af54898f35532d5513",
+            "hash": "534840e9c2c2e368631f50096e9b5fe2",
             "category": "OnDemand",
-            "crc": 320405863,
-            "fileSize": 1575616,
+            "crc": 2826402858,
+            "fileSize": 1575733,
             "dependencies": [],
             "paths": [
                 "OnDemand/music/long/an_0022_02"
@@ -74255,6 +75327,20 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_ss/01": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_ss/01",
+            "cacheFileName": "956b4784aba38de1ae45c21cfad16f6a",
+            "cacheDirectoryName": "be64",
+            "hash": "95e969739185fa1e063a64e7ccf24e6d",
+            "category": "OnDemand",
+            "crc": 1120771668,
+            "fileSize": 135525,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_ss/01"
+            ],
+            "isBuiltin": false
+        },
         "live_pv/model/character/color_variation/body/99/0001/ladies_ss/01": {
             "bundleName": "live_pv/model/character/color_variation/body/99/0001/ladies_ss/01",
             "cacheFileName": "1dba6b921c51bf9b2431767c40415f3d",
@@ -74448,6 +75534,34 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_bondscp_011_009_second_1"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_ss/03": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_ss/03",
+            "cacheFileName": "9d0b031b1304ecdb9f1ae06e83b5c5e0",
+            "cacheDirectoryName": "be64",
+            "hash": "ecea9d365439c6f3b4104fa755f0bcde",
+            "category": "OnDemand",
+            "crc": 4141139709,
+            "fileSize": 132355,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_ss/03"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/color_variation/body/99/0052/ladies_ss/02": {
+            "bundleName": "live_pv/model/character/color_variation/body/99/0052/ladies_ss/02",
+            "cacheFileName": "ee190d7419b1b83594b33edda9ccc73f",
+            "cacheDirectoryName": "be64",
+            "hash": "fcd70400be7609655b1af414d8d8f21f",
+            "category": "OnDemand",
+            "crc": 1870753142,
+            "fileSize": 130310,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/live_pv/model/character/color_variation/body/99/0052/ladies_ss/02"
             ],
             "isBuiltin": false
         },
@@ -74984,7 +76098,7 @@
             "cacheDirectoryName": "3018",
             "hash": "10ae0a3669d4b043a8a8866fb6afa8a3",
             "category": "OnDemand",
-            "crc": 3857810146,
+            "crc": 3757949984,
             "fileSize": 276797,
             "dependencies": [],
             "paths": [
@@ -76685,7 +77799,7 @@
             "cacheDirectoryName": "0478",
             "hash": "214adba8f1b7327e460fb12fda41d49e",
             "category": "OnDemand",
-            "crc": 183490875,
+            "crc": 3581091934,
             "fileSize": 246915,
             "dependencies": [],
             "paths": [
@@ -76904,6 +78018,25 @@
             ],
             "isBuiltin": false
         },
+        "live_pv/model/character/body/99/0052/ladies_m": {
+            "bundleName": "live_pv/model/character/body/99/0052/ladies_m",
+            "cacheFileName": "3e416bc65754bd6672362f2c875397e9",
+            "cacheDirectoryName": "2565",
+            "hash": "ece1c98cfd7c17a45a78cf2a931563d7",
+            "category": "OnDemand",
+            "crc": 859144565,
+            "fileSize": 352212,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_m",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_m/fbx",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_m/fbx/Materials",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_m/sourceimages"
+            ],
+            "isBuiltin": false
+        },
         "sound/card_scenario/voice/016003_rui02": {
             "bundleName": "sound/card_scenario/voice/016003_rui02",
             "cacheFileName": "8262ed1100e43dc8826f2402aa4bb5f7",
@@ -76929,6 +78062,25 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/sound/card_scenario/voice/016003_rui01"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/body/99/0052/ladies_l": {
+            "bundleName": "live_pv/model/character/body/99/0052/ladies_l",
+            "cacheFileName": "a7dbb800a8264327da730710889b76fb",
+            "cacheDirectoryName": "2565",
+            "hash": "e72658ef4d1fc35acc95d96c6fd75008",
+            "category": "OnDemand",
+            "crc": 2979499589,
+            "fileSize": 349562,
+            "dependencies": [
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_l",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_l/fbx",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_l/fbx/Materials",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_l/sourceimages"
             ],
             "isBuiltin": false
         },
@@ -76973,6 +78125,26 @@
             "dependencies": [],
             "paths": [
                 "StartApp/live/voice/cutin/system_commoncp_017_first_1"
+            ],
+            "isBuiltin": false
+        },
+        "live_pv/model/character/body/99/0052/ladies_s": {
+            "bundleName": "live_pv/model/character/body/99/0052/ladies_s",
+            "cacheFileName": "0e2858729e0bd9c3872844d6db31a135",
+            "cacheDirectoryName": "2565",
+            "hash": "720dd35e7d917b876419a3c27b50ee0e",
+            "category": "OnDemand",
+            "crc": 67896848,
+            "fileSize": 356030,
+            "dependencies": [
+                "live_pv/model/character/body/99/0052/ladies_ss",
+                "shader/live"
+            ],
+            "paths": [
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_s",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_s/fbx",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_s/fbx/Materials",
+                "OnDemand/live_pv/model/character/body/99/0052/ladies_s/sourceimages"
             ],
             "isBuiltin": false
         },
@@ -77150,7 +78322,7 @@
             "cacheDirectoryName": "0aa3",
             "hash": "ac7c228dabb3f2c7f56b77c85855f25d",
             "category": "OnDemand",
-            "crc": 713837209,
+            "crc": 991329709,
             "fileSize": 324559,
             "dependencies": [],
             "paths": [
@@ -77218,7 +78390,7 @@
             "cacheDirectoryName": "c8ec",
             "hash": "5b101e1370000ffa65d2960086be1798",
             "category": "OnDemand",
-            "crc": 261183800,
+            "crc": 2764062837,
             "fileSize": 288198,
             "dependencies": [],
             "paths": [
@@ -78011,10 +79183,10 @@
             "bundleName": "live_pv/timeline/0026/camera",
             "cacheFileName": "1519b25b13667f73f0189cc76ed2b356",
             "cacheDirectoryName": "2f06",
-            "hash": "273a6998003cd4f4c960ccdcf3674a41",
+            "hash": "481d633f0fbaf5c90e06e020632bc326",
             "category": "OnDemand",
-            "crc": 626436764,
-            "fileSize": 218274,
+            "crc": 2728566718,
+            "fileSize": 218552,
             "dependencies": [],
             "paths": [
                 "OnDemand/live_pv/timeline/0026/camera"
@@ -78269,10 +79441,10 @@
             "bundleName": "virtual_live/live/effect/stage_dust_blue",
             "cacheFileName": "01ff6d16b254df911e3812300575e70b",
             "cacheDirectoryName": "bbb8",
-            "hash": "d2f074ac479688db580a31af5e448a63",
+            "hash": "d36db7b8d5f589db49bcae3a23b70ada",
             "category": "OnDemand",
-            "crc": 3851249520,
-            "fileSize": 96048,
+            "crc": 4210060721,
+            "fileSize": 96160,
             "dependencies": [
                 "shader/live"
             ],
@@ -78567,6 +79739,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/scenario/background/bg_h000301"
+            ],
+            "isBuiltin": false
+        },
+        "gacha/sound/se/se_gacha": {
+            "bundleName": "gacha/sound/se/se_gacha",
+            "cacheFileName": "cac617a2bcf7f1c7f322c5cdcc91d4e1",
+            "cacheDirectoryName": "f532",
+            "hash": "fb532caa012383d24d0e1894bac92315",
+            "category": "StartApp",
+            "crc": 1471897455,
+            "fileSize": 540910,
+            "dependencies": [],
+            "paths": [
+                "StartApp/gacha/sound/se/SE_GACHA"
             ],
             "isBuiltin": false
         },
@@ -80479,6 +81665,20 @@
             ],
             "isBuiltin": false
         },
+        "crystal_shop/thumbnail/shop_23": {
+            "bundleName": "crystal_shop/thumbnail/shop_23",
+            "cacheFileName": "ed98b70e298441fbbb9632af19abc1c7",
+            "cacheDirectoryName": "5bcc",
+            "hash": "1b5a7c01e3e2a9690c7683ecfc11cd71",
+            "category": "StartApp",
+            "crc": 242556672,
+            "fileSize": 26833,
+            "dependencies": [],
+            "paths": [
+                "StartApp/crystal_shop/thumbnail/shop_23"
+            ],
+            "isBuiltin": false
+        },
         "character/member/res026_no001": {
             "bundleName": "character/member/res026_no001",
             "cacheFileName": "ba5537610a23a4dd9050544725457cab",
@@ -80778,10 +81978,10 @@
             "bundleName": "shader/particles",
             "cacheFileName": "9d4b915e1050eebe5e8a63cb2a819ad7",
             "cacheDirectoryName": "842e",
-            "hash": "aa10dc7d83c9b1533ca85769a47f313d",
+            "hash": "31c2de5a63a32ec8152fa80da442566f",
             "category": "Tutorial",
-            "crc": 911498778,
-            "fileSize": 12937,
+            "crc": 4235379343,
+            "fileSize": 13848,
             "dependencies": [],
             "paths": [
                 "Assets/Sekai/BuiltInAssets/AssetBundle/Resources/Tutorial/shader/particles"
