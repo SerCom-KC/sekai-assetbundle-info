@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0.40",
+    "version": "1.2.0.0",
     "os": "android",
     "bundles": {
         "virtual_live/live/effect/stage_smoke_front": {
@@ -476,10 +476,10 @@
             "bundleName": "thumbnail/resource_box",
             "cacheFileName": "5d8b9e0a9fb65c08ff8864c74956351d",
             "cacheDirectoryName": "951d",
-            "hash": "19fe5961a0a12922b42d06c9c06fc600",
+            "hash": "dc4ab2e50313846316fe0de40e428cf5",
             "category": "StartApp",
-            "crc": 461371064,
-            "fileSize": 38786,
+            "crc": 340896583,
+            "fileSize": 45153,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/resource_box"
@@ -925,8 +925,8 @@
             "cacheDirectoryName": "7340",
             "hash": "a8cde58b135f56ff96c726080367be05",
             "category": "OnDemand",
-            "crc": 2611298085,
-            "fileSize": 5684764,
+            "crc": 46925303,
+            "fileSize": 5684810,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen"
@@ -5678,6 +5678,20 @@
             ],
             "isBuiltin": false
         },
+        "honor/honor_0357": {
+            "bundleName": "honor/honor_0357",
+            "cacheFileName": "17ab25bcbd9faa8806e18eb27d7b71d8",
+            "cacheDirectoryName": "b2f3",
+            "hash": "e675b21f1ff3eac6f982d3f006ec03d4",
+            "category": "StartApp",
+            "crc": 1925281536,
+            "fileSize": 14418,
+            "dependencies": [],
+            "paths": [
+                "StartApp/honor/honor_0357"
+            ],
+            "isBuiltin": false
+        },
         "live/voice/cutin/system_bondscp_014_013_second_1": {
             "bundleName": "live/voice/cutin/system_bondscp_014_013_second_1",
             "cacheFileName": "6001fcffe573687a3b9ac24e9594b574",
@@ -6015,8 +6029,8 @@
             "cacheDirectoryName": "79b7",
             "hash": "b020bc7026fc4a58ef79dbd3d8e8ba15",
             "category": "OnDemand",
-            "crc": 3463853912,
-            "fileSize": 5238171,
+            "crc": 686397678,
+            "fileSize": 5238158,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen",
@@ -10527,10 +10541,10 @@
             "bundleName": "thumbnail/material",
             "cacheFileName": "9ee695fe540ea3b0f72b3c0a73da277b",
             "cacheDirectoryName": "951d",
-            "hash": "e54e4b1d81b69edd7fa746568a3d84c7",
+            "hash": "8f020867994ace5c5461972db101b85d",
             "category": "StartApp",
-            "crc": 802509331,
-            "fileSize": 97472,
+            "crc": 2310921652,
+            "fileSize": 101014,
             "dependencies": [],
             "paths": [
                 "StartApp/thumbnail/material"
@@ -17980,10 +17994,10 @@
             "bundleName": "virtual_live/avatar/model/low_left",
             "cacheFileName": "b8b61673732b9456043b97bbb69409fa",
             "cacheDirectoryName": "25cd",
-            "hash": "6f074ab0909dc1756783b290e4507f73",
+            "hash": "01ae9843a1943ec75d1d9040ffdee11b",
             "category": "StartApp",
-            "crc": 2599088522,
-            "fileSize": 27937,
+            "crc": 224502622,
+            "fileSize": 27942,
             "dependencies": [],
             "paths": [
                 "StartApp/virtual_live/avatar/model/low_left",
@@ -20989,8 +21003,8 @@
             "cacheDirectoryName": "d892",
             "hash": "0321247ab0e5b0376d49c306f28b58a9",
             "category": "OnDemand",
-            "crc": 3767739902,
-            "fileSize": 5638564,
+            "crc": 2348516554,
+            "fileSize": 5638599,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen"
@@ -40892,8 +40906,8 @@
             "cacheDirectoryName": "ad4b",
             "hash": "75f7ab475b0b2e5e9f386188e6c4c60e",
             "category": "OnDemand",
-            "crc": 3529899781,
-            "fileSize": 5560215,
+            "crc": 2512585057,
+            "fileSize": 5560235,
             "dependencies": [
                 "gacha/ab_gacha_1/screen"
             ],
@@ -42674,8 +42688,8 @@
             "cacheDirectoryName": "5e53",
             "hash": "366a32f6a2e65a8fe0351901cfbf68c6",
             "category": "OnDemand",
-            "crc": 2947327535,
-            "fileSize": 5616205,
+            "crc": 538801830,
+            "fileSize": 5616222,
             "dependencies": [],
             "paths": [
                 "OnDemand/gacha/ab_gacha_1/screen/animation",
@@ -50645,10 +50659,10 @@
             "bundleName": "loginbonus/beginner",
             "cacheFileName": "759e4e4b49a4fe2e35e2be85eba7c009",
             "cacheDirectoryName": "9cbb",
-            "hash": "f897ad9771372503765976e65cd86f90",
+            "hash": "d8a4b202fb0b35a725d62de783bc5d05",
             "category": "StartApp",
-            "crc": 2572400963,
-            "fileSize": 915774,
+            "crc": 4163690105,
+            "fileSize": 500623,
             "dependencies": [],
             "paths": [
                 "StartApp/loginbonus/beginner"
@@ -55491,10 +55505,10 @@
             "bundleName": "virtual_live/avatar/model/low_right",
             "cacheFileName": "b6428680c421a6e88891ca2546475ddd",
             "cacheDirectoryName": "25cd",
-            "hash": "8af628f2c3d752ed8d822ab3380c2abe",
+            "hash": "9f558fc2ad89af32475845dd1286ba70",
             "category": "StartApp",
-            "crc": 2505983487,
-            "fileSize": 27984,
+            "crc": 2110169552,
+            "fileSize": 27989,
             "dependencies": [],
             "paths": [
                 "StartApp/virtual_live/avatar/model/low_right",
@@ -59071,10 +59085,10 @@
             "bundleName": "virtual_live/avatar/model/low_both",
             "cacheFileName": "a6fced6bc0a2b9fe3fb03ea5ba069e5f",
             "cacheDirectoryName": "25cd",
-            "hash": "60e6ecdaffecd21d8c154b53a3142341",
+            "hash": "31e961b0f0fca5426bd46febe39e0404",
             "category": "StartApp",
-            "crc": 1737631085,
-            "fileSize": 28431,
+            "crc": 398894235,
+            "fileSize": 28437,
             "dependencies": [],
             "paths": [
                 "StartApp/virtual_live/avatar/model/low_both",
@@ -67675,10 +67689,10 @@
             "bundleName": "tutorial/slide/virtual_live_overview",
             "cacheFileName": "a530ff8249dd2bebb9ebddc6b97487a0",
             "cacheDirectoryName": "871f",
-            "hash": "241b794f286b0e0c2943701c35bcb101",
+            "hash": "8c6af7e3dbc9a625ba6041edc022d07e",
             "category": "StartApp",
-            "crc": 1326661492,
-            "fileSize": 339783,
+            "crc": 3875617091,
+            "fileSize": 502431,
             "dependencies": [],
             "paths": [
                 "StartApp/tutorial/slide/virtual_live_overview"
@@ -76629,8 +76643,8 @@
             "cacheDirectoryName": "842e",
             "hash": "43d081d7d1529ae0f7c71a5e8d3543c5",
             "category": "Tutorial",
-            "crc": 1958284577,
-            "fileSize": 125887,
+            "crc": 1685452748,
+            "fileSize": 125890,
             "dependencies": [],
             "paths": [
                 "Assets/Sekai/BuiltInAssets/AssetBundle/Resources/Tutorial/shader/live",
@@ -80123,8 +80137,8 @@
             "cacheDirectoryName": "c92f",
             "hash": "ef40aae802d16bd39517882305f2c09a",
             "category": "OnDemand",
-            "crc": 1015643275,
-            "fileSize": 5237645,
+            "crc": 537968964,
+            "fileSize": 5237694,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen",
@@ -82713,8 +82727,8 @@
             "cacheDirectoryName": "e566",
             "hash": "fdbd2d03d4dd96f96d4b795f85010566",
             "category": "OnDemand",
-            "crc": 1461926177,
-            "fileSize": 5057821,
+            "crc": 3771094713,
+            "fileSize": 5057856,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen",
@@ -83441,8 +83455,8 @@
             "cacheDirectoryName": "30df",
             "hash": "8275abef01e1e3e16b80b4037e3a569c",
             "category": "OnDemand",
-            "crc": 3342804843,
-            "fileSize": 5074870,
+            "crc": 369652026,
+            "fileSize": 5074895,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen",
@@ -84442,8 +84456,8 @@
             "cacheDirectoryName": "4dfa",
             "hash": "712723e466f95a670b57c59e25157434",
             "category": "OnDemand",
-            "crc": 2382472154,
-            "fileSize": 5685274,
+            "crc": 876084752,
+            "fileSize": 5685322,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
                 "gacha/ab_gacha_4/screen"
