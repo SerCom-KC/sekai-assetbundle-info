@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0.10",
+    "version": "1.2.0.15",
     "os": "android",
     "bundles": {
         "virtual_live/live/effect/stage_smoke_front": {
@@ -939,7 +939,7 @@
             "cacheDirectoryName": "7340",
             "hash": "a8cde58b135f56ff96c726080367be05",
             "category": "OnDemand",
-            "crc": 46925303,
+            "crc": 1286852440,
             "fileSize": 5684810,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -6690,7 +6690,7 @@
             "cacheDirectoryName": "79b7",
             "hash": "b020bc7026fc4a58ef79dbd3d8e8ba15",
             "category": "OnDemand",
-            "crc": 686397678,
+            "crc": 1915218293,
             "fileSize": 5238158,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -6815,8 +6815,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "a4cedc4a7e8eb092d86504d5aef86a0b",
             "category": "OnDemand",
-            "crc": 775626526,
-            "fileSize": 101657,
+            "crc": 2855737554,
+            "fileSize": 101658,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_splash_front"
@@ -7989,8 +7989,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "a3c50f37bde342902991876e9fded008",
             "category": "OnDemand",
-            "crc": 2596594889,
-            "fileSize": 131437,
+            "crc": 580061470,
+            "fileSize": 131439,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_spot_light_suimaji_high_pink"
@@ -15205,8 +15205,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "a501929a42399ee68a8d1fe33e81c77e",
             "category": "OnDemand",
-            "crc": 1539833706,
-            "fileSize": 175214,
+            "crc": 2177837931,
+            "fileSize": 175213,
             "dependencies": [
                 "shader/live",
                 "virtual_live/live/effect/stage_leaf01_needle"
@@ -16313,10 +16313,10 @@
             "bundleName": "music/music_score/0011_01",
             "cacheFileName": "a14fcd1556e9edcc812619e4c81bf5f6",
             "cacheDirectoryName": "ff8c",
-            "hash": "d9c18d39e55b1a574771cdff295bd944",
+            "hash": "0898c662b6fa220d6372cc27285bc234",
             "category": "StartApp",
-            "crc": 3751698334,
-            "fileSize": 12201,
+            "crc": 1439069496,
+            "fileSize": 12200,
             "dependencies": [],
             "paths": [
                 "StartApp/music/music_score/0011_01"
@@ -17772,8 +17772,8 @@
             "cacheDirectoryName": "5642",
             "hash": "6b7e9077297b5224fdad4ed1d5419a3d",
             "category": "Tutorial",
-            "crc": 4193952559,
-            "fileSize": 367517,
+            "crc": 3467414500,
+            "fileSize": 367518,
             "dependencies": [
                 "shader/particles",
                 "shader/sandbox"
@@ -20256,8 +20256,8 @@
             "cacheDirectoryName": "207c",
             "hash": "67d3205817f781645c0f990af1679166",
             "category": "StartApp",
-            "crc": 104680382,
-            "fileSize": 397179,
+            "crc": 702634925,
+            "fileSize": 397182,
             "dependencies": [
                 "shader/live",
                 "shader/particles",
@@ -20342,7 +20342,7 @@
             "bundleName": "areaitem/areaitem1305",
             "cacheFileName": "55808bef9cf9dcfd2b4583bd56d0aa42",
             "cacheDirectoryName": "5dbc",
-            "hash": "ebf5f18b957e679b47fa28507f2ede9f",
+            "hash": "1fc1e83cdc39a576965eab59e8c0a3b2",
             "category": "StartApp",
             "crc": 2366941467,
             "fileSize": 47144,
@@ -20398,7 +20398,7 @@
             "bundleName": "areaitem/areaitem1301",
             "cacheFileName": "45b2cbd32b18057d82dfe480542decd4",
             "cacheDirectoryName": "5dbc",
-            "hash": "95bc242bbb89f2d2714918fe02115d89",
+            "hash": "dd1022619c3f1f058aea7cd5cca33d8d",
             "category": "StartApp",
             "crc": 2781839314,
             "fileSize": 28741,
@@ -20426,7 +20426,7 @@
             "bundleName": "areaitem/areaitem1302",
             "cacheFileName": "787d631f5d41f24ae8c85d60be2439fe",
             "cacheDirectoryName": "5dbc",
-            "hash": "69c1fe8e35353b091e55707e6a6ad5ff",
+            "hash": "beefcc4048a079ba3d37db4912652ef0",
             "category": "StartApp",
             "crc": 3819847735,
             "fileSize": 44843,
@@ -22194,7 +22194,7 @@
             "cacheDirectoryName": "d892",
             "hash": "0321247ab0e5b0376d49c306f28b58a9",
             "category": "OnDemand",
-            "crc": 2348516554,
+            "crc": 2966903474,
             "fileSize": 5638599,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -22720,8 +22720,8 @@
             "cacheDirectoryName": "4b82",
             "hash": "2a70ce78afca88b7443fb927d1e962f4",
             "category": "StartApp",
-            "crc": 4221813562,
-            "fileSize": 16632,
+            "crc": 1185253823,
+            "fileSize": 16637,
             "dependencies": [],
             "paths": [
                 "StartApp/area/area_common"
@@ -23752,6 +23752,20 @@
             "dependencies": [],
             "paths": [
                 "OnDemand/sound/card_scenario/voice/018002_mafuyu02"
+            ],
+            "isBuiltin": false
+        },
+        "loginbonus/event/bestof2020_anniversary": {
+            "bundleName": "loginbonus/event/bestof2020_anniversary",
+            "cacheFileName": "b2c5c86b36dab1501b10ab020e683ea1",
+            "cacheDirectoryName": "9521",
+            "hash": "2b7604b1e4df3f00ae0ca6c3f17ae032",
+            "category": "OnDemand",
+            "crc": 321870372,
+            "fileSize": 1092141,
+            "dependencies": [],
+            "paths": [
+                "OnDemand/loginbonus/event/bestof2020_anniversary"
             ],
             "isBuiltin": false
         },
@@ -25009,7 +25023,7 @@
             "cacheDirectoryName": "bbb8",
             "hash": "4abe91d2404288ff2772187d56c3ee5b",
             "category": "OnDemand",
-            "crc": 2700206172,
+            "crc": 204848705,
             "fileSize": 94277,
             "dependencies": [
                 "shader/particles",
@@ -26644,8 +26658,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "b875ff14b32d4a87001722762abf795b",
             "category": "OnDemand",
-            "crc": 3802674408,
-            "fileSize": 168381,
+            "crc": 4123101948,
+            "fileSize": 168382,
             "dependencies": [
                 "shader/live",
                 "virtual_live/live/effect/stage_clover_all",
@@ -27664,7 +27678,7 @@
             "bundleName": "areaitem/areaitem0808",
             "cacheFileName": "653678d6b03a46afa32323849b35bdef",
             "cacheDirectoryName": "5dbc",
-            "hash": "9ce96358002ceb5b26a266923185295c",
+            "hash": "4cd210585ea3a9a94dba24d20cc802d9",
             "category": "StartApp",
             "crc": 2799592043,
             "fileSize": 21546,
@@ -27838,7 +27852,7 @@
             "bundleName": "areaitem/areaitem0809",
             "cacheFileName": "92939f0c919d23f4c3234ba5b372af9f",
             "cacheDirectoryName": "5dbc",
-            "hash": "8f9fc658207d2b69eda19d4d7f035117",
+            "hash": "2c539b08ca6847f07a1b21804998559b",
             "category": "StartApp",
             "crc": 1891330245,
             "fileSize": 45152,
@@ -37103,8 +37117,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "48178e960efa6d47dec100571f9146c6",
             "category": "OnDemand",
-            "crc": 1670726083,
-            "fileSize": 69612,
+            "crc": 3981175661,
+            "fileSize": 69608,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_splash_front"
@@ -38415,8 +38429,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "e99b9e6ef43c1a18bef542ae921e2887",
             "category": "OnDemand",
-            "crc": 2943135414,
-            "fileSize": 161518,
+            "crc": 3325940166,
+            "fileSize": 161517,
             "dependencies": [
                 "shader/live",
                 "virtual_live/live/effect/stage_clover_all",
@@ -41899,8 +41913,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "93323932875b332c04d9fd34df889262",
             "category": "OnDemand",
-            "crc": 4073651988,
-            "fileSize": 85910,
+            "crc": 3419372361,
+            "fileSize": 85913,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_kira_02"
@@ -43942,8 +43956,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "2c848cbaa4bc71bdeeed7005263c9198",
             "category": "OnDemand",
-            "crc": 3728601948,
-            "fileSize": 69667,
+            "crc": 1949246330,
+            "fileSize": 69670,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_flower_night"
@@ -48953,8 +48967,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "4ef4fed8f95c5d2ec6a575c01d684dc9",
             "category": "OnDemand",
-            "crc": 1598719814,
-            "fileSize": 131596,
+            "crc": 1909716930,
+            "fileSize": 131595,
             "dependencies": [
                 "shader/live",
                 "shader/particles",
@@ -50127,7 +50141,7 @@
             "cacheDirectoryName": "bbb8",
             "hash": "7e263c570f8d1399ed9e64f1c0ab0dfd",
             "category": "OnDemand",
-            "crc": 3615814215,
+            "crc": 963272307,
             "fileSize": 168869,
             "dependencies": [
                 "shader/particles",
@@ -50495,7 +50509,7 @@
             "cacheDirectoryName": "41ec",
             "hash": "04b218cb0429f7e9910c0bdc5c689e88",
             "category": "OnDemand",
-            "crc": 3628891514,
+            "crc": 3979194817,
             "fileSize": 5831956,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -50676,8 +50690,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "15d63e9e9abb100addbc9483701d3e94",
             "category": "OnDemand",
-            "crc": 2660798646,
-            "fileSize": 146380,
+            "crc": 3492221795,
+            "fileSize": 146379,
             "dependencies": [
                 "shader/live",
                 "virtual_live/live/effect/stage_leaf01_needle"
@@ -54266,8 +54280,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "07c0fe93436f373a17927a77e29a78ed",
             "category": "OnDemand",
-            "crc": 3245391257,
-            "fileSize": 141209,
+            "crc": 3767426322,
+            "fileSize": 141211,
             "dependencies": [
                 "shader/live",
                 "shader/particles",
@@ -57136,7 +57150,7 @@
             "cacheDirectoryName": "f26a",
             "hash": "8eef81f9e1d234862ecf6b079132d18c",
             "category": "OnDemand",
-            "crc": 15927436,
+            "crc": 2727879780,
             "fileSize": 6617368,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -60222,8 +60236,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "7f7f6d0b6192713e4392eb0324bb0abb",
             "category": "OnDemand",
-            "crc": 150309297,
-            "fileSize": 79955,
+            "crc": 1677001179,
+            "fileSize": 79956,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_spot_light_big",
@@ -61849,7 +61863,7 @@
             "bundleName": "areaitem/areaitem1",
             "cacheFileName": "f4299d22bccec01b6da9df0278d1b974",
             "cacheDirectoryName": "5dbc",
-            "hash": "8206966e8f9ac4c53607f3fa12284ef7",
+            "hash": "178df828658e02458d60919f4353816d",
             "category": "StartApp",
             "crc": 3008767639,
             "fileSize": 14768,
@@ -62019,8 +62033,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "84f5c90f1cbe2b72c08b516e4fb447c6",
             "category": "OnDemand",
-            "crc": 397105286,
-            "fileSize": 69751,
+            "crc": 4035103983,
+            "fileSize": 69754,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_flower_night"
@@ -66930,8 +66944,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "de74a912dda6bd8fbf735fe1463e8b44",
             "category": "OnDemand",
-            "crc": 892499014,
-            "fileSize": 131585,
+            "crc": 1829869561,
+            "fileSize": 131582,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_spot_light_fragile_high_yellow"
@@ -70220,8 +70234,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "d84d78e7a2c1ceb31f21e5f3710e152e",
             "category": "OnDemand",
-            "crc": 2976415874,
-            "fileSize": 86346,
+            "crc": 2049766510,
+            "fileSize": 86350,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_kira_02"
@@ -76261,8 +76275,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "c740c309dcdcb4fae12e4b5bc4f7f52c",
             "category": "OnDemand",
-            "crc": 470434769,
-            "fileSize": 163798,
+            "crc": 2191398579,
+            "fileSize": 163796,
             "dependencies": [
                 "shader/live",
                 "virtual_live/live/effect/stage_clover_all",
@@ -79551,7 +79565,7 @@
             "cacheDirectoryName": "bbb8",
             "hash": "0e1077a91e6ce4ab54deb7d129898f71",
             "category": "OnDemand",
-            "crc": 3402223471,
+            "crc": 1005748327,
             "fileSize": 165278,
             "dependencies": [
                 "shader/live",
@@ -79575,8 +79589,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "4b24e0c54e7056323a74454d4c710082",
             "category": "OnDemand",
-            "crc": 3062864130,
-            "fileSize": 162898,
+            "crc": 3305105390,
+            "fileSize": 162899,
             "dependencies": [
                 "shader/live",
                 "shader/particles",
@@ -83835,7 +83849,7 @@
             "cacheDirectoryName": "c92f",
             "hash": "ef40aae802d16bd39517882305f2c09a",
             "category": "OnDemand",
-            "crc": 537968964,
+            "crc": 3388166520,
             "fileSize": 5237694,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -86497,7 +86511,7 @@
             "cacheDirectoryName": "e566",
             "hash": "fdbd2d03d4dd96f96d4b795f85010566",
             "category": "OnDemand",
-            "crc": 3771094713,
+            "crc": 1976133078,
             "fileSize": 5057856,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -87239,7 +87253,7 @@
             "cacheDirectoryName": "30df",
             "hash": "8275abef01e1e3e16b80b4037e3a569c",
             "category": "OnDemand",
-            "crc": 369652026,
+            "crc": 1119819475,
             "fileSize": 5074895,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -88268,7 +88282,7 @@
             "cacheDirectoryName": "4dfa",
             "hash": "712723e466f95a670b57c59e25157434",
             "category": "OnDemand",
-            "crc": 876084752,
+            "crc": 1306807026,
             "fileSize": 5685322,
             "dependencies": [
                 "gacha/ab_gacha_1/screen",
@@ -89040,8 +89054,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "b8792ad2ebaf84f11c09352042497dde",
             "category": "OnDemand",
-            "crc": 1245162436,
-            "fileSize": 163059,
+            "crc": 1155183511,
+            "fileSize": 163058,
             "dependencies": [
                 "shader/live",
                 "virtual_live/live/effect/stage_clover_all",
@@ -89803,7 +89817,7 @@
             "cacheDirectoryName": "941a",
             "hash": "bb8a3d860410184d9685362fdec479a7",
             "category": "Tutorial",
-            "crc": 1558522086,
+            "crc": 673888654,
             "fileSize": 475070,
             "dependencies": [
                 "effect_asset/live/cutin/default",
@@ -92562,8 +92576,8 @@
             "cacheDirectoryName": "bbb8",
             "hash": "edde1bd491187ad8ad0b669599911c4b",
             "category": "OnDemand",
-            "crc": 406575109,
-            "fileSize": 77891,
+            "crc": 817712227,
+            "fileSize": 77893,
             "dependencies": [
                 "shader/particles",
                 "virtual_live/live/effect/stage_fire"
@@ -92599,7 +92613,7 @@
             "cacheDirectoryName": "bbb8",
             "hash": "54f112b21b11e3304a5eab1789eb694b",
             "category": "OnDemand",
-            "crc": 517978071,
+            "crc": 1978064447,
             "fileSize": 132095,
             "dependencies": [
                 "shader/particles",
